@@ -1,0 +1,45 @@
+{
+  "id": "onprem_dns_to_private_resolver_standard",
+  "category": "onprem-migrationen",
+  "title": "DNS Hybrid -> Private DNS + Resolver (Standard)",
+  "name": "DNS Hybrid -> Private DNS + Resolver (Standard)",
+  "description": "Assessment + Design + Build + Test + Ops fuer Azure DNS Private Resolver und Private DNS.",
+  "defaultSelected": [
+    "LS-OPM-DNS-AZDNSPR-ASSESSMENT-001",
+    "LS-OPM-DNS-AZDNSPR-ASSESSMENT-002",
+    "LS-OPM-DNS-AZDNSPR-ASSESSMENT-003",
+    "LS-OPM-DNS-AZDNSPR-BUILD-001",
+    "LS-OPM-DNS-AZDNSPR-BUILD-002",
+    "LS-OPM-DNS-AZDNSPR-BUILD-003",
+    "LS-OPM-DNS-AZDNSPR-CHANGE-001",
+    "LS-OPM-DNS-AZDNSPR-CHANGE-002",
+    "LS-OPM-DNS-AZDNSPR-CHANGE-003",
+    "LS-OPM-DNS-AZDNSPR-CUTOVER-001",
+    "LS-OPM-DNS-AZDNSPR-CUTOVER-002",
+    "LS-OPM-DNS-AZDNSPR-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-DNS-AZDNSPR-ASSESSMENT-001",
+    "LS-OPM-DNS-AZDNSPR-ASSESSMENT-002",
+    "LS-OPM-DNS-AZDNSPR-ASSESSMENT-003",
+    "LS-OPM-DNS-AZDNSPR-BUILD-001",
+    "LS-OPM-DNS-AZDNSPR-BUILD-002",
+    "LS-OPM-DNS-AZDNSPR-BUILD-003",
+    "LS-OPM-DNS-AZDNSPR-CHANGE-001",
+    "LS-OPM-DNS-AZDNSPR-CHANGE-002",
+    "LS-OPM-DNS-AZDNSPR-CHANGE-003",
+    "LS-OPM-DNS-AZDNSPR-CUTOVER-001",
+    "LS-OPM-DNS-AZDNSPR-CUTOVER-002",
+    "LS-OPM-DNS-AZDNSPR-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "DNS",
+    "Private Resolver"
+  ],
+  "defaults": {
+    "offerVariant": "DNS Hybrid -> Private DNS + Resolver (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

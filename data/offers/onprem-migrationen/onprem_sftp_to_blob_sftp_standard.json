@@ -1,0 +1,45 @@
+{
+  "id": "onprem_sftp_to_blob_sftp_standard",
+  "category": "onprem-migrationen",
+  "title": "SFTP Server -> Blob SFTP (Standard)",
+  "name": "SFTP Server -> Blob SFTP (Standard)",
+  "description": "Assessment + Build + Migration + Cutover + Monitoring fuer Azure Blob Storage mit SFTP.",
+  "defaultSelected": [
+    "LS-OPM-SFTP-BLOBSFTP-ASSESSMENT-001",
+    "LS-OPM-SFTP-BLOBSFTP-ASSESSMENT-002",
+    "LS-OPM-SFTP-BLOBSFTP-ASSESSMENT-003",
+    "LS-OPM-SFTP-BLOBSFTP-BUILD-001",
+    "LS-OPM-SFTP-BLOBSFTP-BUILD-002",
+    "LS-OPM-SFTP-BLOBSFTP-BUILD-003",
+    "LS-OPM-SFTP-BLOBSFTP-CHANGE-001",
+    "LS-OPM-SFTP-BLOBSFTP-CHANGE-002",
+    "LS-OPM-SFTP-BLOBSFTP-CHANGE-003",
+    "LS-OPM-SFTP-BLOBSFTP-CUTOVER-001",
+    "LS-OPM-SFTP-BLOBSFTP-CUTOVER-002",
+    "LS-OPM-SFTP-BLOBSFTP-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-SFTP-BLOBSFTP-ASSESSMENT-001",
+    "LS-OPM-SFTP-BLOBSFTP-ASSESSMENT-002",
+    "LS-OPM-SFTP-BLOBSFTP-ASSESSMENT-003",
+    "LS-OPM-SFTP-BLOBSFTP-BUILD-001",
+    "LS-OPM-SFTP-BLOBSFTP-BUILD-002",
+    "LS-OPM-SFTP-BLOBSFTP-BUILD-003",
+    "LS-OPM-SFTP-BLOBSFTP-CHANGE-001",
+    "LS-OPM-SFTP-BLOBSFTP-CHANGE-002",
+    "LS-OPM-SFTP-BLOBSFTP-CHANGE-003",
+    "LS-OPM-SFTP-BLOBSFTP-CUTOVER-001",
+    "LS-OPM-SFTP-BLOBSFTP-CUTOVER-002",
+    "LS-OPM-SFTP-BLOBSFTP-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "SFTP",
+    "Blob Storage"
+  ],
+  "defaults": {
+    "offerVariant": "SFTP Server -> Blob SFTP (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

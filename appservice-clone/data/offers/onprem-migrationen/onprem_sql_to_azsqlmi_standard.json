@@ -1,0 +1,44 @@
+{
+  "id": "onprem_sql_to_azsqlmi_standard",
+  "category": "onprem-migrationen",
+  "title": "SQL Server -> Azure SQL MI (Standard)",
+  "name": "SQL Server -> Azure SQL MI (Standard)",
+  "description": "Assessment, Architektur, Migration und Betriebsuebergabe fuer Azure SQL Managed Instance.",
+  "defaultSelected": [
+    "LS-OPM-SQL-AZSQLMI-ASSESSMENT-001",
+    "LS-OPM-SQL-AZSQLMI-ASSESSMENT-002",
+    "LS-OPM-SQL-AZSQLMI-ASSESSMENT-003",
+    "LS-OPM-SQL-AZSQLMI-BUILD-001",
+    "LS-OPM-SQL-AZSQLMI-BUILD-002",
+    "LS-OPM-SQL-AZSQLMI-BUILD-003",
+    "LS-OPM-SQL-AZSQLMI-CHANGE-001",
+    "LS-OPM-SQL-AZSQLMI-CHANGE-002",
+    "LS-OPM-SQL-AZSQLMI-CHANGE-003",
+    "LS-OPM-SQL-AZSQLMI-CUTOVER-001",
+    "LS-OPM-SQL-AZSQLMI-CUTOVER-002",
+    "LS-OPM-SQL-AZSQLMI-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-SQL-AZSQLMI-ASSESSMENT-001",
+    "LS-OPM-SQL-AZSQLMI-ASSESSMENT-002",
+    "LS-OPM-SQL-AZSQLMI-ASSESSMENT-003",
+    "LS-OPM-SQL-AZSQLMI-BUILD-001",
+    "LS-OPM-SQL-AZSQLMI-BUILD-002",
+    "LS-OPM-SQL-AZSQLMI-BUILD-003",
+    "LS-OPM-SQL-AZSQLMI-CHANGE-001",
+    "LS-OPM-SQL-AZSQLMI-CHANGE-002",
+    "LS-OPM-SQL-AZSQLMI-CHANGE-003",
+    "LS-OPM-SQL-AZSQLMI-CUTOVER-001",
+    "LS-OPM-SQL-AZSQLMI-CUTOVER-002",
+    "LS-OPM-SQL-AZSQLMI-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Azure SQL MI"
+  ],
+  "defaults": {
+    "offerVariant": "SQL Server -> Azure SQL MI (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

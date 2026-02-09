@@ -1,0 +1,44 @@
+{
+  "id": "onprem_intune_standard",
+  "category": "onprem-migrationen",
+  "title": "Endpoint Mgmt -> Intune (Standard)",
+  "name": "Endpoint Mgmt -> Intune (Standard)",
+  "description": "SCCM-lastige Endpoint-Verwaltung nach Intune inkl. Enrollment, Policies und Rollout.",
+  "defaultSelected": [
+    "LS-OPM-INTUNE-INTUNE-ASSESSMENT-001",
+    "LS-OPM-INTUNE-INTUNE-ASSESSMENT-002",
+    "LS-OPM-INTUNE-INTUNE-ASSESSMENT-003",
+    "LS-OPM-INTUNE-INTUNE-BUILD-001",
+    "LS-OPM-INTUNE-INTUNE-BUILD-002",
+    "LS-OPM-INTUNE-INTUNE-BUILD-003",
+    "LS-OPM-INTUNE-INTUNE-CHANGE-001",
+    "LS-OPM-INTUNE-INTUNE-CHANGE-002",
+    "LS-OPM-INTUNE-INTUNE-CHANGE-003",
+    "LS-OPM-INTUNE-INTUNE-CUTOVER-001",
+    "LS-OPM-INTUNE-INTUNE-CUTOVER-002",
+    "LS-OPM-INTUNE-INTUNE-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-INTUNE-INTUNE-ASSESSMENT-001",
+    "LS-OPM-INTUNE-INTUNE-ASSESSMENT-002",
+    "LS-OPM-INTUNE-INTUNE-ASSESSMENT-003",
+    "LS-OPM-INTUNE-INTUNE-BUILD-001",
+    "LS-OPM-INTUNE-INTUNE-BUILD-002",
+    "LS-OPM-INTUNE-INTUNE-BUILD-003",
+    "LS-OPM-INTUNE-INTUNE-CHANGE-001",
+    "LS-OPM-INTUNE-INTUNE-CHANGE-002",
+    "LS-OPM-INTUNE-INTUNE-CHANGE-003",
+    "LS-OPM-INTUNE-INTUNE-CUTOVER-001",
+    "LS-OPM-INTUNE-INTUNE-CUTOVER-002",
+    "LS-OPM-INTUNE-INTUNE-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Intune"
+  ],
+  "defaults": {
+    "offerVariant": "Endpoint Mgmt -> Intune (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

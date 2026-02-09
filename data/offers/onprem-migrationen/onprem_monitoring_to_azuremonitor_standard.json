@@ -1,0 +1,44 @@
+{
+  "id": "onprem_monitoring_to_azuremonitor_standard",
+  "category": "onprem-migrationen",
+  "title": "Monitoring -> Azure Monitor (Standard)",
+  "name": "Monitoring -> Azure Monitor (Standard)",
+  "description": "Observability-Rollout mit Workspace, Alerts, Dashboards, Runbooks und Tuning.",
+  "defaultSelected": [
+    "LS-OPM-MONITOR-AZMON-ASSESSMENT-001",
+    "LS-OPM-MONITOR-AZMON-ASSESSMENT-002",
+    "LS-OPM-MONITOR-AZMON-ASSESSMENT-003",
+    "LS-OPM-MONITOR-AZMON-BUILD-001",
+    "LS-OPM-MONITOR-AZMON-BUILD-002",
+    "LS-OPM-MONITOR-AZMON-BUILD-003",
+    "LS-OPM-MONITOR-AZMON-CHANGE-001",
+    "LS-OPM-MONITOR-AZMON-CHANGE-002",
+    "LS-OPM-MONITOR-AZMON-CHANGE-003",
+    "LS-OPM-MONITOR-AZMON-CUTOVER-001",
+    "LS-OPM-MONITOR-AZMON-CUTOVER-002",
+    "LS-OPM-MONITOR-AZMON-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-MONITOR-AZMON-ASSESSMENT-001",
+    "LS-OPM-MONITOR-AZMON-ASSESSMENT-002",
+    "LS-OPM-MONITOR-AZMON-ASSESSMENT-003",
+    "LS-OPM-MONITOR-AZMON-BUILD-001",
+    "LS-OPM-MONITOR-AZMON-BUILD-002",
+    "LS-OPM-MONITOR-AZMON-BUILD-003",
+    "LS-OPM-MONITOR-AZMON-CHANGE-001",
+    "LS-OPM-MONITOR-AZMON-CHANGE-002",
+    "LS-OPM-MONITOR-AZMON-CHANGE-003",
+    "LS-OPM-MONITOR-AZMON-CUTOVER-001",
+    "LS-OPM-MONITOR-AZMON-CUTOVER-002",
+    "LS-OPM-MONITOR-AZMON-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Azure Monitor"
+  ],
+  "defaults": {
+    "offerVariant": "Monitoring -> Azure Monitor (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

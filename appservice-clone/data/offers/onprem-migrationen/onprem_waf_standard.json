@@ -1,0 +1,44 @@
+{
+  "id": "onprem_waf_standard",
+  "category": "onprem-migrationen",
+  "title": "Reverse Proxy / WAF -> Azure WAF (Standard)",
+  "name": "Reverse Proxy / WAF -> Azure WAF (Standard)",
+  "description": "Design + Build + Rule-Tuning fuer Application Gateway WAF / Front Door WAF.",
+  "defaultSelected": [
+    "LS-OPM-WAF-AGWAF-ASSESSMENT-001",
+    "LS-OPM-WAF-AGWAF-ASSESSMENT-002",
+    "LS-OPM-WAF-AGWAF-ASSESSMENT-003",
+    "LS-OPM-WAF-AGWAF-BUILD-001",
+    "LS-OPM-WAF-AGWAF-BUILD-002",
+    "LS-OPM-WAF-AGWAF-BUILD-003",
+    "LS-OPM-WAF-AGWAF-CHANGE-001",
+    "LS-OPM-WAF-AGWAF-CHANGE-002",
+    "LS-OPM-WAF-AGWAF-CHANGE-003",
+    "LS-OPM-WAF-AGWAF-CUTOVER-001",
+    "LS-OPM-WAF-AGWAF-CUTOVER-002",
+    "LS-OPM-WAF-AGWAF-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-WAF-AGWAF-ASSESSMENT-001",
+    "LS-OPM-WAF-AGWAF-ASSESSMENT-002",
+    "LS-OPM-WAF-AGWAF-ASSESSMENT-003",
+    "LS-OPM-WAF-AGWAF-BUILD-001",
+    "LS-OPM-WAF-AGWAF-BUILD-002",
+    "LS-OPM-WAF-AGWAF-BUILD-003",
+    "LS-OPM-WAF-AGWAF-CHANGE-001",
+    "LS-OPM-WAF-AGWAF-CHANGE-002",
+    "LS-OPM-WAF-AGWAF-CHANGE-003",
+    "LS-OPM-WAF-AGWAF-CUTOVER-001",
+    "LS-OPM-WAF-AGWAF-CUTOVER-002",
+    "LS-OPM-WAF-AGWAF-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "WAF"
+  ],
+  "defaults": {
+    "offerVariant": "Reverse Proxy / WAF -> Azure WAF (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

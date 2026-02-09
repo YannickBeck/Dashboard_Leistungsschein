@@ -1,0 +1,27 @@
+{
+  "id": "onprem_messaging_servicebus_eventgrid_standard",
+  "category": "onprem-migrationen",
+  "title": "Message Broker -> Service Bus / Event Grid (Standard)",
+  "name": "Message Broker -> Service Bus / Event Grid (Standard)",
+  "description": "Messaging-Migration fuer Queues/Topics/Events mit Betriebsuebergabe.",
+  "defaultSelected": [
+    "LS-1030",
+    "LS-1015",
+    "LS-1016"
+  ],
+  "module_ids": [
+    "LS-1030",
+    "LS-1015",
+    "LS-1016"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Service Bus",
+    "Event Grid"
+  ],
+  "defaults": {
+    "offerVariant": "Message Broker -> Service Bus / Event Grid (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

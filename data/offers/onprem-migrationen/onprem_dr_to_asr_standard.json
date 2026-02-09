@@ -1,0 +1,45 @@
+{
+  "id": "onprem_dr_to_asr_standard",
+  "category": "onprem-migrationen",
+  "title": "Disaster Recovery -> Azure Site Recovery (Standard)",
+  "name": "Disaster Recovery -> Azure Site Recovery (Standard)",
+  "description": "DR-Readiness, Replikation, Failover-Test und Uebergabe fuer Azure Site Recovery.",
+  "defaultSelected": [
+    "LS-OPM-ASR-ASR-ASSESSMENT-001",
+    "LS-OPM-ASR-ASR-ASSESSMENT-002",
+    "LS-OPM-ASR-ASR-ASSESSMENT-003",
+    "LS-OPM-ASR-ASR-BUILD-001",
+    "LS-OPM-ASR-ASR-BUILD-002",
+    "LS-OPM-ASR-ASR-BUILD-003",
+    "LS-OPM-ASR-ASR-CHANGE-001",
+    "LS-OPM-ASR-ASR-CHANGE-002",
+    "LS-OPM-ASR-ASR-CHANGE-003",
+    "LS-OPM-ASR-ASR-CUTOVER-001",
+    "LS-OPM-ASR-ASR-CUTOVER-002",
+    "LS-OPM-ASR-ASR-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-ASR-ASR-ASSESSMENT-001",
+    "LS-OPM-ASR-ASR-ASSESSMENT-002",
+    "LS-OPM-ASR-ASR-ASSESSMENT-003",
+    "LS-OPM-ASR-ASR-BUILD-001",
+    "LS-OPM-ASR-ASR-BUILD-002",
+    "LS-OPM-ASR-ASR-BUILD-003",
+    "LS-OPM-ASR-ASR-CHANGE-001",
+    "LS-OPM-ASR-ASR-CHANGE-002",
+    "LS-OPM-ASR-ASR-CHANGE-003",
+    "LS-OPM-ASR-ASR-CUTOVER-001",
+    "LS-OPM-ASR-ASR-CUTOVER-002",
+    "LS-OPM-ASR-ASR-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "ASR",
+    "Disaster Recovery"
+  ],
+  "defaults": {
+    "offerVariant": "Disaster Recovery -> Azure Site Recovery (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

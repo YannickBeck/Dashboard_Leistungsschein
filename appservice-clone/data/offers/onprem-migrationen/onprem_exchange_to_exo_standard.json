@@ -1,0 +1,44 @@
+{
+  "id": "onprem_exchange_to_exo_standard",
+  "category": "onprem-migrationen",
+  "title": "Exchange -> Exchange Online (Standard)",
+  "name": "Exchange -> Exchange Online (Standard)",
+  "description": "Assessment + Design + Build + Migrationsbatches + Cutover + Handover fuer Exchange Online.",
+  "defaultSelected": [
+    "LS-OPM-EXCHANGE-EXO-ASSESSMENT-001",
+    "LS-OPM-EXCHANGE-EXO-ASSESSMENT-002",
+    "LS-OPM-EXCHANGE-EXO-ASSESSMENT-003",
+    "LS-OPM-EXCHANGE-EXO-BUILD-001",
+    "LS-OPM-EXCHANGE-EXO-BUILD-002",
+    "LS-OPM-EXCHANGE-EXO-BUILD-003",
+    "LS-OPM-EXCHANGE-EXO-CHANGE-001",
+    "LS-OPM-EXCHANGE-EXO-CHANGE-002",
+    "LS-OPM-EXCHANGE-EXO-CHANGE-003",
+    "LS-OPM-EXCHANGE-EXO-CUTOVER-001",
+    "LS-OPM-EXCHANGE-EXO-CUTOVER-002",
+    "LS-OPM-EXCHANGE-EXO-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-EXCHANGE-EXO-ASSESSMENT-001",
+    "LS-OPM-EXCHANGE-EXO-ASSESSMENT-002",
+    "LS-OPM-EXCHANGE-EXO-ASSESSMENT-003",
+    "LS-OPM-EXCHANGE-EXO-BUILD-001",
+    "LS-OPM-EXCHANGE-EXO-BUILD-002",
+    "LS-OPM-EXCHANGE-EXO-BUILD-003",
+    "LS-OPM-EXCHANGE-EXO-CHANGE-001",
+    "LS-OPM-EXCHANGE-EXO-CHANGE-002",
+    "LS-OPM-EXCHANGE-EXO-CHANGE-003",
+    "LS-OPM-EXCHANGE-EXO-CUTOVER-001",
+    "LS-OPM-EXCHANGE-EXO-CUTOVER-002",
+    "LS-OPM-EXCHANGE-EXO-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Exchange Online"
+  ],
+  "defaults": {
+    "offerVariant": "Exchange -> Exchange Online (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

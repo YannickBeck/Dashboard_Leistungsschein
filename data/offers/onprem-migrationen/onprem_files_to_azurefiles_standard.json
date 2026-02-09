@@ -1,0 +1,44 @@
+{
+  "id": "onprem_files_to_azurefiles_standard",
+  "category": "onprem-migrationen",
+  "title": "Fileserver -> Azure Files (Standard)",
+  "name": "Fileserver -> Azure Files (Standard)",
+  "description": "Assessment + Design + Build + Migration + Tests + Handover fuer Fileserver nach Azure Files.",
+  "defaultSelected": [
+    "LS-OPM-FILES-AZFILES-ASSESSMENT-001",
+    "LS-OPM-FILES-AZFILES-ASSESSMENT-002",
+    "LS-OPM-FILES-AZFILES-ASSESSMENT-003",
+    "LS-OPM-FILES-AZFILES-BUILD-001",
+    "LS-OPM-FILES-AZFILES-BUILD-002",
+    "LS-OPM-FILES-AZFILES-BUILD-003",
+    "LS-OPM-FILES-AZFILES-CHANGE-001",
+    "LS-OPM-FILES-AZFILES-CHANGE-002",
+    "LS-OPM-FILES-AZFILES-CHANGE-003",
+    "LS-OPM-FILES-AZFILES-CUTOVER-001",
+    "LS-OPM-FILES-AZFILES-CUTOVER-002",
+    "LS-OPM-FILES-AZFILES-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-FILES-AZFILES-ASSESSMENT-001",
+    "LS-OPM-FILES-AZFILES-ASSESSMENT-002",
+    "LS-OPM-FILES-AZFILES-ASSESSMENT-003",
+    "LS-OPM-FILES-AZFILES-BUILD-001",
+    "LS-OPM-FILES-AZFILES-BUILD-002",
+    "LS-OPM-FILES-AZFILES-BUILD-003",
+    "LS-OPM-FILES-AZFILES-CHANGE-001",
+    "LS-OPM-FILES-AZFILES-CHANGE-002",
+    "LS-OPM-FILES-AZFILES-CHANGE-003",
+    "LS-OPM-FILES-AZFILES-CUTOVER-001",
+    "LS-OPM-FILES-AZFILES-CUTOVER-002",
+    "LS-OPM-FILES-AZFILES-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Azure Files"
+  ],
+  "defaults": {
+    "offerVariant": "Fileserver -> Azure Files (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

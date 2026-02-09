@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.1.0",
+  "id": "LS-OPM-APIM-APIM-ASSESSMENT-003",
+  "title": "API Gateway -> Azure API Management: Readiness-Report und Priorisierung",
+  "domain": "onprem-migrationen",
+  "theme": "onprem-apim-api-management",
+  "summary": "Assessment - Readiness-Report und Priorisierung fuer die Migration von API Gateway nach Azure API Management als separat beauftragbarer Teilleistungsumfang.",
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "apim",
+    "api-management",
+    "ASSESSMENT",
+    "Azure API Management"
+  ],
+  "source": {
+    "type": "generated",
+    "origin": "onprem-migration-library",
+    "url": ""
+  },
+  "estimate": {
+    "unit": "PT",
+    "min": 1,
+    "likely": 4,
+    "max": 5
+  },
+  "delivery_model": "managed_service_only",
+  "intro": "Der Leistungsschein adressiert den Baustein \"Readiness-Report und Priorisierung\" in der Phase Assessment fuer die Migration von API Gateway nach Azure API Management. Ziel ist ein klar abgrenzbares Ergebnis mit nachvollziehbarer Dokumentation, das separat beauftragt und abgenommen werden kann. Der Scope umfasst nur die in diesem Baustein beschriebenen Aktivitaeten inklusive Test- und Uebergabenachweisen.",
+  "services": [
+    "Input- und Scope-Klaerung fuer Readiness-Report und Priorisierung mit fachlichen und technischen Ansprechpartnern.",
+    "Analyse der aktuellen API Gateway-Auspraegung inklusive Abhaengigkeiten zum Ziel Azure API Management.",
+    "Erstellung der konkreten Arbeitsschritte inkl. Reihenfolge, Zeitfenster und Verantwortlichkeiten.",
+    "Durchfuehrung der technischen Aufgaben gemaess abgestimmtem Plan und dokumentierter Parameter.",
+    "Validierung ueber definierte Tests/Checks mit protokollierten Ergebnissen und Abweichungen.",
+    "Review, Ergebnisfreigabe und Uebergabe inkl. Restpunkte- und Risikoabstimmung."
+  ],
+  "deliverables": [
+    "Assessment-Arbeitsprotokoll fuer Readiness-Report und Priorisierung.",
+    "Entscheidungslog inkl. Parameter- und Konfigurationsliste.",
+    "Test- und Evidenzprotokoll mit Status je Pruefpunkt.",
+    "Abnahmeprotokoll inkl. offener Punkte und Verantwortlichkeiten.",
+    "Backout-/Stabilisierungscheckliste (sofern fuer Phase relevant)."
+  ],
+  "assumptions": [
+    "Kundenseitig sind technische und fachliche Ansprechpartner waehrend der Ausfuehrung verfuegbar.",
+    "Alle benoetigten Zugriffe, Berechtigungen und Freigaben liegen vor Beginn des Bausteins vor.",
+    "Wartungs-, Test- und Cutover-Fenster werden rechtzeitig freigegeben.",
+    "Abhaengige Drittteams liefern erforderliche Inputs innerhalb der vereinbarten Fristen."
+  ],
+  "constraints": [
+    "Aenderungen ausserhalb des definierten Scopes werden nicht implizit umgesetzt.",
+    "Abhaengigkeiten zu Fremdprodukten/Providern koennen Zeitplaene beeinflussen.",
+    "Unvorhergesehene Ist-Abweichungen koennen zusaetzliche Analyse oder Re-Planung erfordern."
+  ],
+  "out_of_scope": [
+    "Dauerhafte Betriebsverantwortung ohne separaten Ops-/Managed-Service-Baustein.",
+    "Implementierung nicht benannter Zusatzprodukte oder paralleler Plattformwechsel.",
+    "Umfangreiche Reorganisation angrenzender Architekturdomainen ausserhalb dieses Outcomes."
+  ],
+  "acceptance": [
+    "Alle im Baustein definierten Deliverables wurden vollstaendig uebergeben und versioniert.",
+    "Mindestens drei abgestimmte Pruef-/Testkriterien wurden erfolgreich durchgefuehrt und dokumentiert.",
+    "Offene Punkte, Restrisiken und erforderliche Folgeaktionen wurden schriftlich abgestimmt."
+  ],
+  "scope": {
+    "description": "Umsetzung des bestellbaren Outcomes \"Readiness-Report und Priorisierung\" in Phase Assessment fuer API Gateway nach Azure API Management.",
+    "qty": {
+      "users": 80
+    },
+    "boundaries": [
+      "Scope ist auf die benannte Rolle/Zielplattform und den konkreten Outcome begrenzt.",
+      "Aenderungen am Gesamtprojekt-Scope werden separat bewertet und freigegeben.",
+      "Cross-Workload-Abhaengigkeiten werden nur koordiniert, nicht automatisch umgesetzt."
+    ]
+  },
+  "effort_drivers": [
+    "API-Anzahl",
+    "Policy-Komplexitaet",
+    "Auth-/OAuth-Szenarien",
+    "Versionierungsmodell"
+  ],
+  "risks": [
+    "Unvollstaendige Bestandsdaten oder nicht dokumentierte Altlasten fuehren zu Zusatzaufwand.",
+    "Freigabe- oder Zugriffsblocker verzögern technische Arbeitspakete.",
+    "Scope-Aenderungen waehrend der Umsetzung erhoehen Aufwand und Abstimmungsbedarf."
+  ],
+  "mitigations": [
+    "Readiness-Check fuer Zugriffe/Freigaben vor Start des Bausteins.",
+    "Regelmaessige Review- und Entscheidungsrunden mit transparentem Status.",
+    "Dokumentiertes Change-Control mit Re-Estimate bei Scope-Aenderungen."
+  ],
+  "customer_responsibilities": [
+    "Bereitstellung zustaendiger Ansprechpartner und Entscheidungswege.",
+    "Termingerechte Freigabe von Wartungsfenstern, Zugraengen und Testgruppen.",
+    "Review/Abnahme der gelieferten Ergebnisse innerhalb vereinbarter Fristen."
+  ],
+  "provider_responsibilities": [
+    "Planung und technische Umsetzung gemaess abgestimmtem Scope.",
+    "Nachvollziehbare Dokumentation von Entscheidungen, Risiken und Ergebnissen.",
+    "Fruehzeitige Eskalation bei Blockern sowie strukturierte Uebergabe."
+  ],
+  "raci": {
+    "customer": [
+      "Accountable fuer fachliche Priorisierung und Freigaben.",
+      "Consulted bei Betriebs-, Prozess- und Compliance-Entscheidungen."
+    ],
+    "provider": [
+      "Responsible fuer technische Planung, Ausfuehrung und Nachweisfuehrung.",
+      "Consulted fuer Best Practices, Risikosteuerung und Optimierungsoptionen."
+    ]
+  },
+  "change_control": "Scope-Aenderungen werden ueber ein formales Change-Request-Verfahren aufgenommen, bewertet (Aufwand/Termin/Risiko) und erst nach Freigabe umgesetzt.",
+  "notes": "On-Prem Migrationsbibliothek: apim/api-management/01_assessment.",
+  "dependencies": {
+    "requires": [
+      "LS-OPM-APIM-APIM-ASSESSMENT-002"
+    ],
+    "excludes": []
+  },
+  "mehrwert": [
+    "Der Baustein \"API Gateway -> Azure API Management: Readiness-Report und Priorisierung\" schafft ein klar abnehmbares Zwischenergebnis und macht Aufwand, Verantwortlichkeiten und Folgeentscheidungen transparent.",
+    "Die Migration wird in nachvollziehbare Arbeitspakete mit Abnahmepunkten gegliedert, damit Aufwand, Zeitfenster und Abhaengigkeiten steuerbar bleiben.",
+    "Im Vergleich zu ad-hoc Umstellungen ohne belastbares Runbook sinken Nacharbeiten, weil Reihenfolge und Verantwortlichkeiten vorab geklaert sind.",
+    "Das reduziert insbesondere das Risiko \"Unvollstaendige Bestandsdaten oder nicht dokumentierte Altlasten fuehren zu Zusatzaufwand\" und stabilisiert den Projektverlauf.",
+    "Transparente Restpunkte und Entscheidungslogs beschleunigen Folgewellen und vermeiden wiederkehrende Abstimmungsschleifen.",
+    "API Management vereinheitlicht Zugriff, Schutz und Versionierung von Schnittstellen; gegenueber direkten Punkt-zu-Punkt-Integrationen sinken Betriebs- und Governance-Aufwaende."
+  ]
+}

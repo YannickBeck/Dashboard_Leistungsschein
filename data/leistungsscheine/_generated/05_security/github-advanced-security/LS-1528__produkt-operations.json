@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.1.0",
+  "id": "LS-1528",
+  "title": "Produkt - Operations Add-on",
+  "domain": "security",
+  "theme": "github-advanced-security",
+  "summary": "Operations Add-on fuer Produkt mit klar abgrenzbarem, separat beauftragbarem Ergebnis.",
+  "tags": [
+    "Azure",
+    "Produkt",
+    "Security",
+    "security",
+    "Operations Add-on",
+    "DevOps"
+  ],
+  "source": {
+    "type": "generated",
+    "origin": "azure-products-index",
+    "url": "https://azure.microsoft.com/de-de/products/devops/github-advanced-security"
+  },
+  "estimate": {
+    "unit": "PT",
+    "min": 1,
+    "likely": 5,
+    "max": 7
+  },
+  "intro": "Operations Add-on fuer Produkt wird als eigenstaendiger Leistungsbaustein umgesetzt. Der Fokus liegt auf einem klar messbaren Teilergebnis, das separat beauftragt und abgenommen werden kann. Ergebnis sind technische Nachweise, Entscheidungsgrundlagen und dokumentierte Restpunkte.",
+  "services": [
+    "Input-Aufnahme fuer Produkt: Randbedingungen, Ziele und Erfolgskriterien abstimmen.",
+    "Ist-Analyse der relevanten technischen Voraussetzungen und Abhaengigkeiten.",
+    "Operations Add-on planen: Reihenfolge, Entscheidungslogik und Pruefpunkte festlegen.",
+    "Technische Umsetzung im vereinbarten Scope mit nachvollziehbaren Konfigurationsschritten.",
+    "Validierung mit definierten Tests/Checks und dokumentierten Ergebnissen.",
+    "Review, Uebergabe und Abstimmung der naechsten Schritte inkl. Restpunkte."
+  ],
+  "deliverables": [
+    "Operations Add-on-Arbeitsdokument fuer Produkt.",
+    "Konfigurations- und Parameternachweis.",
+    "Test-/Pruefprotokoll inkl. Ergebnisstatus.",
+    "Abnahme- und Uebergabeprotokoll.",
+    "Risiko-/Massnahmenliste inkl. Verantwortlichkeiten."
+  ],
+  "assumptions": [
+    "Kundenseitige Ansprechpartner stehen fuer Rueckfragen und Entscheidungen zeitnah bereit.",
+    "Benoetigte Zugriffe, Berechtigungen und Freigaben liegen vor Start vor.",
+    "Abhaengige Teams liefern Inputs/Freigaben innerhalb vereinbarter Fristen.",
+    "Testfenster und Pilotnutzer sind fuer Validierung verfuegbar."
+  ],
+  "constraints": [
+    "Aenderungen ausserhalb des vereinbarten Scopes werden separat bewertet.",
+    "Abhaengigkeiten zu Drittplattformen/Providern koennen Durchlaufzeiten beeinflussen.",
+    "Nicht reproduzierbare Fehler ausserhalb des Testfensters koennen Zusatzanalyse erfordern."
+  ],
+  "out_of_scope": [
+    "Dauerhafte Betriebsfuehrung ausserhalb separat gebuchter Betriebsbausteine.",
+    "Leistungen fuer nicht benannte Produkte/Workloads.",
+    "Groessere Architektur-Neuplanungen ausserhalb dieses konkreten Outcomes."
+  ],
+  "acceptance": [
+    "Alle definierten Deliverables sind uebergeben und versioniert dokumentiert.",
+    "Mindestens drei abgestimmte Funktions-/Integrationschecks sind erfolgreich protokolliert.",
+    "Offene Punkte und Restrisiken sind mit Verantwortlichkeiten dokumentiert und abgestimmt."
+  ],
+  "scope": {
+    "description": "Umsetzung von Operations Add-on fuer Produkt im abgestimmten Umfang mit klaren Liefergrenzen.",
+    "qty": {
+      "shares": 6
+    },
+    "boundaries": [
+      "Leistungsumfang ist auf den benannten Produktbereich beschraenkt.",
+      "Aenderungen an uebergeordneten Architekturzielen sind nicht enthalten.",
+      "Zusatzanforderungen werden ueber Change-Control geplant."
+    ]
+  },
+  "effort_drivers": [
+    "Policy-/Control-Umfang",
+    "Ausnahmeregeln",
+    "Logging/Retention",
+    "Regulatorische Vorgaben"
+  ],
+  "risks": [
+    "Unvollstaendige Bestandsinformationen fuehren zu Nacharbeit.",
+    "Fehlende Freigaben blockieren technische Umsetzungsschritte.",
+    "Scope-Aenderungen waehrend der Umsetzung erhoehen Aufwand und Laufzeit."
+  ],
+  "mitigations": [
+    "Frueher Readiness-Check fuer Zugriffe, Freigaben und Testdaten.",
+    "Regelmaessige Entscheidungsrunden mit dokumentierten To-dos.",
+    "Formalisierte Change-Bewertung mit transparentem Impact."
+  ],
+  "customer_responsibilities": [
+    "Benennung fachlicher/technischer Ansprechpartner.",
+    "Bereitstellung von Zugraengen und Freigaben gemaess Plan.",
+    "Teilnahme an Reviews, Tests und Abnahme."
+  ],
+  "provider_responsibilities": [
+    "Durchfuehrung der vereinbarten technischen Leistungen.",
+    "Transparente Dokumentation von Risiken, Entscheidungen und Restpunkten.",
+    "Nachvollziehbare Ergebnisuebergabe inklusive Abnahmeunterstuetzung."
+  ],
+  "raci": {
+    "customer": [
+      "Accountable fuer fachliche Freigaben und Priorisierung.",
+      "Consulted fuer Prozess- und Betriebsentscheidungen."
+    ],
+    "provider": [
+      "Responsible fuer technische Planung/Umsetzung.",
+      "Consulted fuer Best Practices und Risikosteuerung."
+    ]
+  },
+  "change_control": "Aenderungen am Scope werden ueber ein dokumentiertes Change-Control mit Aufwand-/Termin-Impact bewertet und nach Freigabe umgesetzt.",
+  "notes": "Automatisch generierter, granularer Baustein aus Azure-Produktindex (2026-02-07).",
+  "dependencies": {
+    "requires": [
+      "LS-1527"
+    ],
+    "excludes": []
+  },
+  "mehrwert": [
+    "Der Baustein \"Produkt - Operations Add-on\" schafft ein klar abnehmbares Zwischenergebnis und macht Aufwand, Verantwortlichkeiten und Folgeentscheidungen transparent.",
+    "Sicherheitskontrollen werden im Zielbetrieb verankert, damit Schutzwirkung und Betriebsfaehigkeit gemeinsam geplant und nicht gegeneinander ausgespielt werden.",
+    "Gegenueber punktuellen Einzelhaertungen entsteht ein konsistentes Sicherheitsniveau ueber Rollen, Konfiguration und Prozessschnittstellen.",
+    "Das reduziert insbesondere das Risiko \"Unvollstaendige Bestandsinformationen fuehren zu Nacharbeit\" und stabilisiert den Projektverlauf.",
+    "Klare Sicherheitsnachweise und Entscheidungsgrundlagen verkuerzen Freigaben und stabilisieren den Regelbetrieb."
+  ]
+}

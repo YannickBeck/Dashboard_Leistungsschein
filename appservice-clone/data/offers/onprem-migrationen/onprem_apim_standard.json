@@ -1,0 +1,44 @@
+{
+  "id": "onprem_apim_standard",
+  "category": "onprem-migrationen",
+  "title": "API Gateway -> API Management (Standard)",
+  "name": "API Gateway -> API Management (Standard)",
+  "description": "Assessment + API-Policy-Design + Publishing + Governance fuer Azure API Management.",
+  "defaultSelected": [
+    "LS-OPM-APIM-APIM-ASSESSMENT-001",
+    "LS-OPM-APIM-APIM-ASSESSMENT-002",
+    "LS-OPM-APIM-APIM-ASSESSMENT-003",
+    "LS-OPM-APIM-APIM-BUILD-001",
+    "LS-OPM-APIM-APIM-BUILD-002",
+    "LS-OPM-APIM-APIM-BUILD-003",
+    "LS-OPM-APIM-APIM-CHANGE-001",
+    "LS-OPM-APIM-APIM-CHANGE-002",
+    "LS-OPM-APIM-APIM-CHANGE-003",
+    "LS-OPM-APIM-APIM-CUTOVER-001",
+    "LS-OPM-APIM-APIM-CUTOVER-002",
+    "LS-OPM-APIM-APIM-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-APIM-APIM-ASSESSMENT-001",
+    "LS-OPM-APIM-APIM-ASSESSMENT-002",
+    "LS-OPM-APIM-APIM-ASSESSMENT-003",
+    "LS-OPM-APIM-APIM-BUILD-001",
+    "LS-OPM-APIM-APIM-BUILD-002",
+    "LS-OPM-APIM-APIM-BUILD-003",
+    "LS-OPM-APIM-APIM-CHANGE-001",
+    "LS-OPM-APIM-APIM-CHANGE-002",
+    "LS-OPM-APIM-APIM-CHANGE-003",
+    "LS-OPM-APIM-APIM-CUTOVER-001",
+    "LS-OPM-APIM-APIM-CUTOVER-002",
+    "LS-OPM-APIM-APIM-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "API Management"
+  ],
+  "defaults": {
+    "offerVariant": "API Gateway -> API Management (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

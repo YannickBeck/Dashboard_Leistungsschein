@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.1.0",
+  "id": "LS-OPM-SENTINEL-SENTINEL-CUTOVER-003",
+  "title": "SIEM -> Microsoft Sentinel: Backout- und Stabilisierungsfenster",
+  "domain": "onprem-migrationen",
+  "theme": "onprem-sentinel-microsoft-sentinel",
+  "summary": "Cutover - Backout- und Stabilisierungsfenster fuer die Migration von SIEM nach Microsoft Sentinel als separat beauftragbarer Teilleistungsumfang.",
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "sentinel",
+    "microsoft-sentinel",
+    "CUTOVER",
+    "Microsoft Sentinel"
+  ],
+  "source": {
+    "type": "generated",
+    "origin": "onprem-migration-library",
+    "url": ""
+  },
+  "estimate": {
+    "unit": "PT",
+    "min": 1,
+    "likely": 4,
+    "max": 6
+  },
+  "delivery_model": "managed_service_only",
+  "intro": "Der Leistungsschein adressiert den Baustein \"Backout- und Stabilisierungsfenster\" in der Phase Cutover fuer die Migration von SIEM nach Microsoft Sentinel. Ziel ist ein klar abgrenzbares Ergebnis mit nachvollziehbarer Dokumentation, das separat beauftragt und abgenommen werden kann. Der Scope umfasst nur die in diesem Baustein beschriebenen Aktivitaeten inklusive Test- und Uebergabenachweisen.",
+  "services": [
+    "Input- und Scope-Klaerung fuer Backout- und Stabilisierungsfenster mit fachlichen und technischen Ansprechpartnern.",
+    "Analyse der aktuellen SIEM-Auspraegung inklusive Abhaengigkeiten zum Ziel Microsoft Sentinel.",
+    "Erstellung der konkreten Arbeitsschritte inkl. Reihenfolge, Zeitfenster und Verantwortlichkeiten.",
+    "Durchfuehrung der technischen Aufgaben gemaess abgestimmtem Plan und dokumentierter Parameter.",
+    "Validierung ueber definierte Tests/Checks mit protokollierten Ergebnissen und Abweichungen.",
+    "Review, Ergebnisfreigabe und Uebergabe inkl. Restpunkte- und Risikoabstimmung."
+  ],
+  "deliverables": [
+    "Cutover-Arbeitsprotokoll fuer Backout- und Stabilisierungsfenster.",
+    "Entscheidungslog inkl. Parameter- und Konfigurationsliste.",
+    "Test- und Evidenzprotokoll mit Status je Pruefpunkt.",
+    "Abnahmeprotokoll inkl. offener Punkte und Verantwortlichkeiten.",
+    "Backout-/Stabilisierungscheckliste (sofern fuer Phase relevant)."
+  ],
+  "assumptions": [
+    "Kundenseitig sind technische und fachliche Ansprechpartner waehrend der Ausfuehrung verfuegbar.",
+    "Alle benoetigten Zugriffe, Berechtigungen und Freigaben liegen vor Beginn des Bausteins vor.",
+    "Wartungs-, Test- und Cutover-Fenster werden rechtzeitig freigegeben.",
+    "Abhaengige Drittteams liefern erforderliche Inputs innerhalb der vereinbarten Fristen."
+  ],
+  "constraints": [
+    "Aenderungen ausserhalb des definierten Scopes werden nicht implizit umgesetzt.",
+    "Abhaengigkeiten zu Fremdprodukten/Providern koennen Zeitplaene beeinflussen.",
+    "Unvorhergesehene Ist-Abweichungen koennen zusaetzliche Analyse oder Re-Planung erfordern."
+  ],
+  "out_of_scope": [
+    "Dauerhafte Betriebsverantwortung ohne separaten Ops-/Managed-Service-Baustein.",
+    "Implementierung nicht benannter Zusatzprodukte oder paralleler Plattformwechsel.",
+    "Umfangreiche Reorganisation angrenzender Architekturdomainen ausserhalb dieses Outcomes."
+  ],
+  "acceptance": [
+    "Alle im Baustein definierten Deliverables wurden vollstaendig uebergeben und versioniert.",
+    "Mindestens drei abgestimmte Pruef-/Testkriterien wurden erfolgreich durchgefuehrt und dokumentiert.",
+    "Offene Punkte, Restrisiken und erforderliche Folgeaktionen wurden schriftlich abgestimmt."
+  ],
+  "scope": {
+    "description": "Umsetzung des bestellbaren Outcomes \"Backout- und Stabilisierungsfenster\" in Phase Cutover fuer SIEM nach Microsoft Sentinel.",
+    "qty": {
+      "users": 35
+    },
+    "boundaries": [
+      "Scope ist auf die benannte Rolle/Zielplattform und den konkreten Outcome begrenzt.",
+      "Aenderungen am Gesamtprojekt-Scope werden separat bewertet und freigegeben.",
+      "Cross-Workload-Abhaengigkeiten werden nur koordiniert, nicht automatisch umgesetzt."
+    ]
+  },
+  "effort_drivers": [
+    "Data Connectors",
+    "Detection Rules",
+    "Incident Volumen",
+    "SOC-Prozessreife"
+  ],
+  "risks": [
+    "Unvollstaendige Bestandsdaten oder nicht dokumentierte Altlasten fuehren zu Zusatzaufwand.",
+    "Freigabe- oder Zugriffsblocker verzögern technische Arbeitspakete.",
+    "Scope-Aenderungen waehrend der Umsetzung erhoehen Aufwand und Abstimmungsbedarf."
+  ],
+  "mitigations": [
+    "Readiness-Check fuer Zugriffe/Freigaben vor Start des Bausteins.",
+    "Regelmaessige Review- und Entscheidungsrunden mit transparentem Status.",
+    "Dokumentiertes Change-Control mit Re-Estimate bei Scope-Aenderungen."
+  ],
+  "customer_responsibilities": [
+    "Bereitstellung zustaendiger Ansprechpartner und Entscheidungswege.",
+    "Termingerechte Freigabe von Wartungsfenstern, Zugraengen und Testgruppen.",
+    "Review/Abnahme der gelieferten Ergebnisse innerhalb vereinbarter Fristen."
+  ],
+  "provider_responsibilities": [
+    "Planung und technische Umsetzung gemaess abgestimmtem Scope.",
+    "Nachvollziehbare Dokumentation von Entscheidungen, Risiken und Ergebnissen.",
+    "Fruehzeitige Eskalation bei Blockern sowie strukturierte Uebergabe."
+  ],
+  "raci": {
+    "customer": [
+      "Accountable fuer fachliche Priorisierung und Freigaben.",
+      "Consulted bei Betriebs-, Prozess- und Compliance-Entscheidungen."
+    ],
+    "provider": [
+      "Responsible fuer technische Planung, Ausfuehrung und Nachweisfuehrung.",
+      "Consulted fuer Best Practices, Risikosteuerung und Optimierungsoptionen."
+    ]
+  },
+  "change_control": "Scope-Aenderungen werden ueber ein formales Change-Request-Verfahren aufgenommen, bewertet (Aufwand/Termin/Risiko) und erst nach Freigabe umgesetzt.",
+  "notes": "On-Prem Migrationsbibliothek: sentinel/microsoft-sentinel/05_cutover.",
+  "dependencies": {
+    "requires": [
+      "LS-OPM-SENTINEL-SENTINEL-MIGRATION-001",
+      "LS-OPM-SENTINEL-SENTINEL-CUTOVER-002"
+    ],
+    "excludes": []
+  },
+  "mehrwert": [
+    "Der Baustein \"SIEM -> Microsoft Sentinel: Backout- und Stabilisierungsfenster\" schafft ein klar abnehmbares Zwischenergebnis und macht Aufwand, Verantwortlichkeiten und Folgeentscheidungen transparent.",
+    "Die Migration wird in nachvollziehbare Arbeitspakete mit Abnahmepunkten gegliedert, damit Aufwand, Zeitfenster und Abhaengigkeiten steuerbar bleiben.",
+    "Im Vergleich zu ad-hoc Umstellungen ohne belastbares Runbook sinken Nacharbeiten, weil Reihenfolge und Verantwortlichkeiten vorab geklaert sind.",
+    "Das reduziert insbesondere das Risiko \"Unvollstaendige Bestandsdaten oder nicht dokumentierte Altlasten fuehren zu Zusatzaufwand\" und stabilisiert den Projektverlauf.",
+    "Transparente Restpunkte und Entscheidungslogs beschleunigen Folgewellen und vermeiden wiederkehrende Abstimmungsschleifen.",
+    "Sentinel buendelt Erkennung und Korrelation zentral; gegenueber isolierten Log-Silos verkuerzt sich der Weg zur belastbaren Incident-Bewertung."
+  ]
+}

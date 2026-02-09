@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Angebots-Baukasten</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>Angebots-Baukasten fuer Leistungsscheine</h1>
+    </header>
+
+    <section class="toolbar">
+      <select id="presetSelect">
+        <option value="">Vorlage waehlen</option>
+      </select>
+      <input id="searchInput" type="search" placeholder="Suche nach ID, Titel, Tags, Zusammenfassung" />
+      <select id="domainFilter">
+        <option value="">Alle Domains</option>
+      </select>
+      <select id="themeFilter">
+        <option value="">Alle Themes</option>
+      </select>
+      <select id="deliveryModelFilter">
+        <option value="">Alle Delivery-Modelle</option>
+        <option value="managed_service_only">Ohne VMs (Managed Service)</option>
+        <option value="managed_plus_vms">Mit VMs (Managed + VMs)</option>
+      </select>
+    </section>
+
+    <main class="layout">
+      <aside class="tree-panel">
+        <h2>Taxonomie</h2>
+        <div id="taxonomyTree"></div>
+      </aside>
+
+      <section class="cards-panel">
+        <div id="moduleGrid" class="module-grid"></div>
+      </section>
+
+      <aside class="selection-panel">
+        <h2>Angebots-Meta</h2>
+        <div class="meta-form">
+          <label for="offerVariantInput">Angebotsvariante</label>
+          <input id="offerVariantInput" type="text" placeholder="z. B. Standard" />
+
+          <label for="dailyRateInput">Tagessatz (EUR/Tag, optional)</label>
+          <input id="dailyRateInput" type="number" min="0" step="50" placeholder="z. B. 1200" />
+
+          <label for="teamRoleInput">Teamrolle (optional)</label>
+          <input id="teamRoleInput" type="text" placeholder="z. B. Senior Consultant" />
+
+          <label for="customerInput">Kunde (optional)</label>
+          <input id="customerInput" type="text" placeholder="Kundenname" />
+
+          <label for="providerInput">Anbieter (optional)</label>
+          <input id="providerInput" type="text" placeholder="IT-Dienstleister" />
+        </div>
+
+        <h2>Auswahlkorb</h2>
+        <p>Ausgewaehlt: <strong id="selectionCount">0</strong></p>
+        <p>Aufwandsschaetzung: <strong id="ptRange">0-0 PT</strong></p>
+        <p id="ptLikely">Most likely: 0 PT</p>
+        <p id="costRange">Kostenrahmen: -</p>
+        <p class="hint">Unverbindlicher Richtwert auf Basis der aktuellen Auswahl.</p>
+
+        <p>Hinweise:</p>
+        <ul id="missingDependencies"></ul>
+        <p>Konflikte:</p>
+        <ul id="selectionConflicts"></ul>
+
+        <h3>Ausgewaehlte IDs</h3>
+        <ul id="selectedIds"></ul>
+        <button id="detailsBtn" type="button">Details</button>
+        <button id="generateBtn" type="button">Angebot generieren</button>
+      </aside>
+    </main>
+
+    <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+
+    <div id="detailBackdrop" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="detailModalTitle">
+      <div id="detailModal" class="modal-card detail-modal">
+        <div class="modal__header">
+          <h2 id="detailModalTitle">Leistungsschein Details</h2>
+          <button id="closeDetailModalBtn" type="button" class="modal__close" aria-label="Schliessen">✕</button>
+        </div>
+        <div id="detailModalBody" class="modal__body">
+          <p>Waehle einen Leistungsschein fuer Details.</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="successModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-card">
+        <h2 id="modalTitle">Hinweis</h2>
+        <p id="modalMessage">Bitte an den VB senden und besprechen</p>
+        <button id="closeModalBtn" type="button">Schliessen</button>
+      </div>
+    </div>
+
+    <script src="/app.js" defer></script>
+  </body>
+</html>

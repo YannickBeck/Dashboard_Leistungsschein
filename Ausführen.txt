@@ -1,0 +1,5 @@
+Start-Process powershell -ArgumentList '-NoExit','-Command','cd "C:\Users\yannick.beck\OneDrive - BE O365 MS-Cloud\Desktop\Leistungsschein"; npm start'; Start-Sleep -Seconds 2; Start-Process "http://localhost:3000"
+
+
+
+cmd.exe /c "cd /d C:/Users/yannick.beck/OneDrive - BE O365 MS-Cloud/Desktop/Leistungsschein && set PATH=C:/Progra~1/nodejs;%PATH% && C:/Progra~1/nodejs/npm.cmd start"

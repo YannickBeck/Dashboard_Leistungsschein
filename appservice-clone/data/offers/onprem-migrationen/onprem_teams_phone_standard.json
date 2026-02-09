@@ -1,0 +1,26 @@
+{
+  "id": "onprem_teams_phone_standard",
+  "category": "onprem-migrationen",
+  "title": "PBX -> Teams Phone (Standard)",
+  "name": "PBX -> Teams Phone (Standard)",
+  "description": "Assessment + Rufnummernstrategie + Pilot + Cutover fuer Teams Phone.",
+  "defaultSelected": [
+    "LS-1025",
+    "LS-1026",
+    "LS-1005"
+  ],
+  "module_ids": [
+    "LS-1025",
+    "LS-1026",
+    "LS-1005"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Teams Phone"
+  ],
+  "defaults": {
+    "offerVariant": "PBX -> Teams Phone (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

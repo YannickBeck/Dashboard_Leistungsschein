@@ -1,0 +1,44 @@
+{
+  "id": "onprem_keyvault_standard",
+  "category": "onprem-migrationen",
+  "title": "Secrets / Cert Store -> Key Vault (Standard)",
+  "name": "Secrets / Cert Store -> Key Vault (Standard)",
+  "description": "Zentrales Secrets- und Zertifikatsmanagement mit Azure Key Vault.",
+  "defaultSelected": [
+    "LS-OPM-KEYVAULT-AZKV-ASSESSMENT-001",
+    "LS-OPM-KEYVAULT-AZKV-ASSESSMENT-002",
+    "LS-OPM-KEYVAULT-AZKV-ASSESSMENT-003",
+    "LS-OPM-KEYVAULT-AZKV-BUILD-001",
+    "LS-OPM-KEYVAULT-AZKV-BUILD-002",
+    "LS-OPM-KEYVAULT-AZKV-BUILD-003",
+    "LS-OPM-KEYVAULT-AZKV-CHANGE-001",
+    "LS-OPM-KEYVAULT-AZKV-CHANGE-002",
+    "LS-OPM-KEYVAULT-AZKV-CHANGE-003",
+    "LS-OPM-KEYVAULT-AZKV-CUTOVER-001",
+    "LS-OPM-KEYVAULT-AZKV-CUTOVER-002",
+    "LS-OPM-KEYVAULT-AZKV-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-KEYVAULT-AZKV-ASSESSMENT-001",
+    "LS-OPM-KEYVAULT-AZKV-ASSESSMENT-002",
+    "LS-OPM-KEYVAULT-AZKV-ASSESSMENT-003",
+    "LS-OPM-KEYVAULT-AZKV-BUILD-001",
+    "LS-OPM-KEYVAULT-AZKV-BUILD-002",
+    "LS-OPM-KEYVAULT-AZKV-BUILD-003",
+    "LS-OPM-KEYVAULT-AZKV-CHANGE-001",
+    "LS-OPM-KEYVAULT-AZKV-CHANGE-002",
+    "LS-OPM-KEYVAULT-AZKV-CHANGE-003",
+    "LS-OPM-KEYVAULT-AZKV-CUTOVER-001",
+    "LS-OPM-KEYVAULT-AZKV-CUTOVER-002",
+    "LS-OPM-KEYVAULT-AZKV-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Key Vault"
+  ],
+  "defaults": {
+    "offerVariant": "Secrets / Cert Store -> Key Vault (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

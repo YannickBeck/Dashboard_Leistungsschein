@@ -1,0 +1,126 @@
+{
+  "id": "LS-1472",
+  "title": "Monitoring Tuning nach Pilotphase",
+  "domain": "monitoring_ops",
+  "theme": "monitoring",
+  "summary": "Alert- und Dashboard-Tuning auf Basis realer Betriebsdaten.",
+  "tags": [
+    "Monitoring",
+    "Operations",
+    "Azure Monitor",
+    "Azure",
+    "monitoring_ops"
+  ],
+  "source": {
+    "type": "generated",
+    "origin": "enrichment-split",
+    "url": ""
+  },
+  "estimate": {
+    "unit": "PT",
+    "min": 1,
+    "likely": 2,
+    "max": 4
+  },
+  "intro": "Dieser Leistungsschein beschreibt den klar abgegrenzten Teilleistungsumfang \"Monitoring Tuning nach Pilotphase\" innerhalb des Themenfelds monitoring. Die Aktivitaeten folgen einem nachvollziehbaren Ablauf aus Input-Klaerung, technischer Umsetzung und pruefbarer Ergebnisuebergabe. Ziel ist ein separat beauftragbares, dokumentiertes Ergebnis mit transparenten Annahmen, Abgrenzungen und Abnahmekriterien.",
+  "services": [
+    "Input-Aufnahme: Rahmenbedingungen, Systemgrenzen und Erfolgskriterien fuer Monitoring Tuning nach Pilotphase mit den relevanten Stakeholdern abstimmen.",
+    "Ist-Analyse: aktuelle Konfiguration, Abhaengigkeiten und Risiken strukturiert erfassen und priorisieren.",
+    "Design- bzw. Umsetzungsplan fuer Monitoring Tuning nach Pilotphase inkl. Entscheidungsoptionen, Reihenfolge und Pruefpunkten erstellen.",
+    "Technische Umsetzung im vereinbarten Scope inklusive Nachweis der vorgenommenen Einstellungen/Schritte.",
+    "Test und Validierung anhand definierter Checks; Abweichungen mit Massnahmenvorschlaegen dokumentieren.",
+    "Ergebnisreview, Uebergabe und abgestimmte naechste Schritte inkl. Restpunkte und Verantwortlichkeiten festhalten."
+  ],
+  "deliverables": [
+    "Abgestimmter Arbeitsnachweis fuer Monitoring Tuning nach Pilotphase (Scope, Grenzen, Entscheidungen).",
+    "Technische Parameter- und Konfigurationsliste mit Umsetzungsstatus.",
+    "Testprotokoll mit dokumentierten Ergebnissen, Abweichungen und Freigabeempfehlung.",
+    "Abnahme-/Uebergabeprotokoll inkl. offener Punkte und Verantwortlichkeiten.",
+    "Risiko- und Massnahmenliste fuer die naechste Umsetzungsphase."
+  ],
+  "assumptions": [
+    "Kundenseitig stehen fachliche und technische Ansprechpartner waehrend der Durchfuehrung termingerecht zur Verfuegung.",
+    "Notwendige Zugriffe, Freigaben und Wartungsfenster werden vor Start des Arbeitspakets bereitgestellt.",
+    "Abhaengige Teams (monitoring_ops, Security, Netzwerk, Betrieb) liefern benoetigte Entscheidungen innerhalb vereinbarter Fristen.",
+    "Pilot-/Testnutzer und benoetigte Testdaten stehen fuer Validierung und Abnahme zur Verfuegung."
+  ],
+  "constraints": [
+    "Aenderungen ausserhalb des abgestimmten Scopes werden nicht implizit umgesetzt.",
+    "Abhaengigkeiten zu Drittanbietern oder internen Change-Prozessen koennen Terminverschiebungen verursachen.",
+    "Nicht reproduzierbare Fehlerbilder ausserhalb des Testfensters koennen eine Nachanalyse erforderlich machen."
+  ],
+  "out_of_scope": [
+    "Dauerhafte Betriebsfuehrung/24x7-Support ausserhalb explizit vereinbarter Hypercare-Bausteine.",
+    "Implementierung von Zusatzsystemen oder Fremdprodukten, die nicht im Leistungsschein benannt sind.",
+    "Grundlegende Reorganisation von Governance-, Security- oder Netzwerkzielen ausserhalb des konkreten Outcomes."
+  ],
+  "acceptance": [
+    "Alle fuer \"Monitoring Tuning nach Pilotphase\" geplanten Deliverables sind vollstaendig uebergeben und versioniert dokumentiert.",
+    "Mindestens drei definierte Funktions-/Integrationschecks wurden erfolgreich durchgefuehrt und protokolliert.",
+    "Abweichungen, Restrisiken und offene Punkte sind mit klarer Verantwortlichkeit dokumentiert und abgestimmt."
+  ],
+  "dependencies": {
+    "requires": [
+      "LS-1471"
+    ],
+    "excludes": []
+  },
+  "schema_version": "1.1.0",
+  "scope": {
+    "description": "Umsetzung des Bausteins LS-1015 (Monitoring Dashboard Azure Files) im abgestimmten Projektkontext.",
+    "qty": {
+      "shares": 6,
+      "users": 120
+    },
+    "boundaries": [
+      "Aenderungen ausserhalb dieses Leistungsscheins werden ueber Change-Control behandelt.",
+      "Projektuebergreifende Architekturentscheidungen sind nicht automatisch enthalten.",
+      "Scope-Grenze 3 wird separat bewertet und freigegeben."
+    ]
+  },
+  "effort_drivers": [
+    "Anzahl Signalquellen",
+    "Anzahl Alerts",
+    "Runbook-Reifegrad"
+  ],
+  "risks": [
+    "Spaete Freigaben oder fehlende Berechtigungen verschieben Arbeitspakete.",
+    "Unerwartete Ist-Abweichungen erhoehen den Aufwand.",
+    "Risiko 3"
+  ],
+  "mitigations": [
+    "Fruehe Zugriffspruefung und abgestimmte Freigabeplanung.",
+    "Regelmaessige Scope-Reviews mit dokumentierten Entscheidungen.",
+    "Massnahme 3"
+  ],
+  "customer_responsibilities": [
+    "Bereitstellung technischer Ansprechpartner.",
+    "Freigabe der benoetigten Wartungs- und Testfenster.",
+    "Rueckmeldung zu offenen Punkten innerhalb vereinbarter Fristen."
+  ],
+  "provider_responsibilities": [
+    "Planung, Durchfuehrung und Dokumentation der vereinbarten Leistungen.",
+    "Risikotransparenz und aktive Eskalation bei Blockern.",
+    "Uebergabe nachvollziehbarer Ergebnisse fuer Review/Abnahme."
+  ],
+  "raci": {
+    "customer": [
+      "Accountable fuer fachliche Entscheidungen",
+      "Responsible fuer Freigaben/Zugaenge"
+    ],
+    "provider": [
+      "Responsible fuer technische Umsetzung",
+      "Consulted fuer Architektur- und Betriebsfragen"
+    ]
+  },
+  "change_control": "Scope- oder Annahmenaenderungen werden ueber ein dokumentiertes Change-Verfahren bewertet, abgeschaetzt und separat freigegeben.",
+  "notes": "[split-of:LS-1015] tuning-pilotphase",
+  "mehrwert": [
+    "Der Baustein \"Monitoring Tuning nach Pilotphase\" schafft ein klar abnehmbares Zwischenergebnis und macht Aufwand, Verantwortlichkeiten und Folgeentscheidungen transparent.",
+    "Monitoring und Alerting werden als steuerbarer Betriebsprozess aufgesetzt, sodass Stoerungen frueh sichtbar und priorisiert bearbeitbar sind.",
+    "Gegenueber reaktiver Fehlersuche ohne einheitliche Signale sinken Suchzeiten und Medienbrueche zwischen Fachbereich, Betrieb und Support.",
+    "Das reduziert insbesondere das Risiko \"Spaete Freigaben oder fehlende Berechtigungen verschieben Arbeitspakete\" und stabilisiert den Projektverlauf.",
+    "Eindeutige Alarmwege, Schwellenwerte und Runbooks machen Incident-Bearbeitung messbar und wiederholbar.",
+    "Messbasierte Optimierung verbindet Kosten, Performance und Stabilitaet und verhindert isolierte Einzelmassnahmen ohne Gesamtwirkung."
+  ]
+}

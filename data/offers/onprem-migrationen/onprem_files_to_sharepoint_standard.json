@@ -1,0 +1,45 @@
+{
+  "id": "onprem_files_to_sharepoint_standard",
+  "category": "onprem-migrationen",
+  "title": "Fileserver -> SharePoint Online / OneDrive (Standard)",
+  "name": "Fileserver -> SharePoint Online / OneDrive (Standard)",
+  "description": "Assessment + Informationsarchitektur + Migration + Enablement fuer Fileserver nach SharePoint/OneDrive.",
+  "defaultSelected": [
+    "LS-OPM-FILES-SPOD-ASSESSMENT-001",
+    "LS-OPM-FILES-SPOD-ASSESSMENT-002",
+    "LS-OPM-FILES-SPOD-ASSESSMENT-003",
+    "LS-OPM-FILES-SPOD-BUILD-001",
+    "LS-OPM-FILES-SPOD-BUILD-002",
+    "LS-OPM-FILES-SPOD-BUILD-003",
+    "LS-OPM-FILES-SPOD-CHANGE-001",
+    "LS-OPM-FILES-SPOD-CHANGE-002",
+    "LS-OPM-FILES-SPOD-CHANGE-003",
+    "LS-OPM-FILES-SPOD-CUTOVER-001",
+    "LS-OPM-FILES-SPOD-CUTOVER-002",
+    "LS-OPM-FILES-SPOD-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-FILES-SPOD-ASSESSMENT-001",
+    "LS-OPM-FILES-SPOD-ASSESSMENT-002",
+    "LS-OPM-FILES-SPOD-ASSESSMENT-003",
+    "LS-OPM-FILES-SPOD-BUILD-001",
+    "LS-OPM-FILES-SPOD-BUILD-002",
+    "LS-OPM-FILES-SPOD-BUILD-003",
+    "LS-OPM-FILES-SPOD-CHANGE-001",
+    "LS-OPM-FILES-SPOD-CHANGE-002",
+    "LS-OPM-FILES-SPOD-CHANGE-003",
+    "LS-OPM-FILES-SPOD-CUTOVER-001",
+    "LS-OPM-FILES-SPOD-CUTOVER-002",
+    "LS-OPM-FILES-SPOD-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "SharePoint Online",
+    "OneDrive"
+  ],
+  "defaults": {
+    "offerVariant": "Fileserver -> SharePoint Online / OneDrive (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

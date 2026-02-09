@@ -1,0 +1,1354 @@
+{
+  "generated_at": "2026-02-07T18:17:00.545Z",
+  "source_index": "azure-products-index.de-de.json",
+  "threshold": 3,
+  "total_products": 197,
+  "relevant_products": 73,
+  "products": [
+    {
+      "name": "Azure Database for PostgreSQL",
+      "category": "Databases",
+      "category_raw": "Azure Database for PostgreSQL",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/postgresql/",
+      "score": 12,
+      "tags": [
+        "Azure",
+        "Databases"
+      ],
+      "rationale": [
+        "+4:database",
+        "+3:sql",
+        "+3:postgres",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "databases"
+    },
+    {
+      "name": "Produkt",
+      "category": "Databases",
+      "category_raw": "Azure Database for MySQL",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/mysql/",
+      "score": 12,
+      "tags": [
+        "Azure",
+        "Databases"
+      ],
+      "rationale": [
+        "+4:database",
+        "+3:sql",
+        "+3:mysql",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "databases"
+    },
+    {
+      "name": "SQL Server auf Azure Virtual Machines",
+      "category": "Compute",
+      "category_raw": "SQL Server auf Azure Virtual Machines",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/sql-server/",
+      "score": 11,
+      "tags": [
+        "Azure",
+        "Compute",
+        "Databases"
+      ],
+      "rationale": [
+        "+3:compute",
+        "+3:virtual machine",
+        "+3:sql",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Azure Migrate",
+      "category": "Migration",
+      "category_raw": "Azure Migrate",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/azure-migrate/",
+      "score": 10,
+      "tags": [
+        "Azure",
+        "Migration"
+      ],
+      "rationale": [
+        "+4:migrate",
+        "+4:migration",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "migration"
+    },
+    {
+      "name": "Produkt",
+      "category": "Databases",
+      "category_raw": "Azure Database Migration Service",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/database-migration/",
+      "score": 10,
+      "tags": [
+        "Azure",
+        "Databases",
+        "Migration"
+      ],
+      "rationale": [
+        "+4:database",
+        "+4:migration",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "databases"
+    },
+    {
+      "name": "Produkt",
+      "category": "Security",
+      "category_raw": "GitHub Advanced Security für Azure DevOps",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/devops/github-advanced-security",
+      "score": 10,
+      "tags": [
+        "Azure",
+        "Security",
+        "DevOps"
+      ],
+      "rationale": [
+        "+4:security",
+        "+4:devops",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "security"
+    },
+    {
+      "name": "Produkt",
+      "category": "Identity",
+      "category_raw": "Microsoft Entra Domain Services",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/microsoft-entra-ds",
+      "score": 10,
+      "tags": [
+        "Azure",
+        "Identity"
+      ],
+      "rationale": [
+        "+4:identity",
+        "+4:entra",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "identity"
+    },
+    {
+      "name": "Produkt",
+      "category": "Identity",
+      "category_raw": "Azure IoT Central",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/iot-central/",
+      "score": 10,
+      "tags": [
+        "Azure",
+        "Identity"
+      ],
+      "rationale": [
+        "+4:identity",
+        "+4:entra",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "identity"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure Files",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage/files/",
+      "score": 10,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+4:files",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure NetApp Files",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/netapp/",
+      "score": 10,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+4:files",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Azure SQL",
+      "category": "Databases",
+      "category_raw": "Azure SQL",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/azure-sql/",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "Databases"
+      ],
+      "rationale": [
+        "+4:database",
+        "+3:sql",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "databases"
+    },
+    {
+      "name": "Microsoft Defender for Cloud",
+      "category": "Security",
+      "category_raw": "Microsoft Defender for Cloud",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/defender-for-cloud/",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "Security"
+      ],
+      "rationale": [
+        "+4:security",
+        "+3:defender",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "security"
+    },
+    {
+      "name": "Produkt",
+      "category": "Databases",
+      "category_raw": "Azure SQL-Datenbank",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/azure-sql/database/",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "Databases"
+      ],
+      "rationale": [
+        "+4:database",
+        "+3:sql",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "databases"
+    },
+    {
+      "name": "Produkt",
+      "category": "Databases",
+      "category_raw": "Azure SQL Managed Instance",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/azure-sql/managed-instance/",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "Databases"
+      ],
+      "rationale": [
+        "+4:database",
+        "+3:sql",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "databases"
+    },
+    {
+      "name": "Produkt",
+      "category": "DevOps",
+      "category_raw": "Azure Pipelines",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/devops/pipelines/",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "DevOps"
+      ],
+      "rationale": [
+        "+4:devops",
+        "+3:pipeline",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "devops"
+    },
+    {
+      "name": "Produkt",
+      "category": "DevOps",
+      "category_raw": "Azure Pipelines",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/devops/pipelines",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "DevOps"
+      ],
+      "rationale": [
+        "+4:devops",
+        "+3:pipeline",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "devops"
+    },
+    {
+      "name": "Produkt",
+      "category": "Security",
+      "category_raw": "Defender External Attack Surface Management",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/defender-external-attack-surface-management/",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "Security"
+      ],
+      "rationale": [
+        "+4:security",
+        "+3:defender",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "security"
+    },
+    {
+      "name": "Produkt",
+      "category": "Backup & DR",
+      "category_raw": "Azure Site Recovery",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/site-recovery/",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "Backup"
+      ],
+      "rationale": [
+        "+4:backup",
+        "+3:recovery",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "backup_dr"
+    },
+    {
+      "name": "Produkt",
+      "category": "Network",
+      "category_raw": "Azure DNS",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/dns/",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "Network"
+      ],
+      "rationale": [
+        "+4:network",
+        "+3:dns",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "network"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure Blob Storage",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage/blobs/",
+      "score": 9,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+3:blob",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Azure Kubernetes Fleet Manager",
+      "category": "Containers",
+      "category_raw": "Azure Kubernetes Fleet Manager",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/kubernetes-fleet-manager/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:containers",
+        "+3:kubernetes",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Azure Kubernetes Service (AKS)",
+      "category": "Containers",
+      "category_raw": "Azure Kubernetes Service (AKS)",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/kubernetes-service/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:containers",
+        "+3:kubernetes",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Azure Spot Virtual Machines",
+      "category": "Compute",
+      "category_raw": "Azure Spot Virtual Machines",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/spot/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:compute",
+        "+3:virtual machine",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Azure Virtual Machine Scale Sets",
+      "category": "Compute",
+      "category_raw": "Virtual Machine Scale Sets",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machine-scale-sets/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:compute",
+        "+3:virtual machine",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Produkt",
+      "category": "Compute",
+      "category_raw": "Data Science Virtual Machines",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/data-science-virtual-machines/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:compute",
+        "+3:virtual machine",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Produkt",
+      "category": "Containers",
+      "category_raw": "Azure HDInsight in Azure Kubernetes Service (AKS)",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/hdinsight-on-aks/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:containers",
+        "+3:kubernetes",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Produkt",
+      "category": "Compute",
+      "category_raw": "Virtual Machines",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/windows/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:compute",
+        "+3:virtual machine",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Produkt",
+      "category": "Integration",
+      "category_raw": "Event Grid",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/event-grid/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Integration"
+      ],
+      "rationale": [
+        "+3:integration",
+        "+3:event grid",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "integration"
+    },
+    {
+      "name": "Produkt",
+      "category": "Integration",
+      "category_raw": "Logic Apps",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/logic-apps/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Integration"
+      ],
+      "rationale": [
+        "+3:integration",
+        "+3:logic apps",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "integration"
+    },
+    {
+      "name": "Produkt",
+      "category": "Integration",
+      "category_raw": "Service Bus",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/service-bus/",
+      "score": 8,
+      "tags": [
+        "Azure",
+        "Integration"
+      ],
+      "rationale": [
+        "+3:integration",
+        "+3:service bus",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "integration"
+    },
+    {
+      "name": "Produkt",
+      "category": "Governance",
+      "category_raw": "Microsoft Cost Management",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/cost-management/",
+      "score": 7,
+      "tags": [
+        "Azure",
+        "Governance",
+        "FinOps"
+      ],
+      "rationale": [
+        "+3:governance",
+        "+2:cost",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "management_governance"
+    },
+    {
+      "name": "Azure DevOps",
+      "category": "DevOps",
+      "category_raw": "Azure DevOps",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/devops/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "DevOps"
+      ],
+      "rationale": [
+        "+4:devops",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "devops"
+    },
+    {
+      "name": "Azure Monitor",
+      "category": "Monitoring",
+      "category_raw": "Azure Monitor",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/monitor/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Monitoring"
+      ],
+      "rationale": [
+        "+4:monitor",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "monitoring_ops"
+    },
+    {
+      "name": "Azure Storage Mover",
+      "category": "Storage",
+      "category_raw": "Unkategorisiert",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/resource-mover",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Security",
+      "category_raw": "Inhaltssicherheit auf der Foundry-Steuerungsebene",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-content-safety/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Security"
+      ],
+      "rationale": [
+        "+4:security",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "security"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure Data Lake Storage",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage/data-lake-storage/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure Container Storage",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/container-storage/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Table Storage",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage/tables/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "DevOps",
+      "category_raw": "Azure Artifacts",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/devops/artifacts/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "DevOps"
+      ],
+      "rationale": [
+        "+4:devops",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "devops"
+    },
+    {
+      "name": "Produkt",
+      "category": "DevOps",
+      "category_raw": "Azure Boards",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/devops/boards/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "DevOps"
+      ],
+      "rationale": [
+        "+4:devops",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "devops"
+    },
+    {
+      "name": "Produkt",
+      "category": "DevOps",
+      "category_raw": "Azure Repos",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/devops/repos/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "DevOps"
+      ],
+      "rationale": [
+        "+4:devops",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "devops"
+    },
+    {
+      "name": "Produkt",
+      "category": "DevOps",
+      "category_raw": "Azure Test Plans",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/devops/test-plans/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "DevOps"
+      ],
+      "rationale": [
+        "+4:devops",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "devops"
+    },
+    {
+      "name": "Produkt",
+      "category": "Security",
+      "category_raw": "GitHub Advanced Security",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/github/Advanced-Security",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Security"
+      ],
+      "rationale": [
+        "+4:security",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "security"
+    },
+    {
+      "name": "Produkt",
+      "category": "Backup & DR",
+      "category_raw": "Azure Backup",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/backup/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Backup"
+      ],
+      "rationale": [
+        "+4:backup",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "backup_dr"
+    },
+    {
+      "name": "Produkt",
+      "category": "Network",
+      "category_raw": "Azure Network Watcher",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/network-watcher/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Network"
+      ],
+      "rationale": [
+        "+4:network",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "network"
+    },
+    {
+      "name": "Produkt",
+      "category": "Network",
+      "category_raw": "Content Delivery Network",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/cdn/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Network"
+      ],
+      "rationale": [
+        "+4:network",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "network"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure Storage Mover",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage-mover",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Network",
+      "category_raw": "Azure Network Function Manager",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/azure-network-function-manager/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Network"
+      ],
+      "rationale": [
+        "+4:network",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "network"
+    },
+    {
+      "name": "Produkt",
+      "category": "Network",
+      "category_raw": "Azure Virtual Network Manager",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-network-manager",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Network"
+      ],
+      "rationale": [
+        "+4:network",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "network"
+    },
+    {
+      "name": "Produkt",
+      "category": "Network",
+      "category_raw": "Azure Virtual Network",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-network/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Network"
+      ],
+      "rationale": [
+        "+4:network",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "network"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Archivspeicher",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure Speichervorgänge",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage-actions",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure Disk Storage",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage/disks/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure Elastic SAN",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage/elastic-san/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Queue Storage",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage/queues/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Storage-Explorer",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage/storage-explorer/",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Produkt",
+      "category": "Storage",
+      "category_raw": "Azure Storage Discovery",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/storage-discovery",
+      "score": 6,
+      "tags": [
+        "Azure",
+        "Storage"
+      ],
+      "rationale": [
+        "+4:storage",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "storage"
+    },
+    {
+      "name": "Azure Computing-Flotte",
+      "category": "Compute",
+      "category_raw": "Azure Computing-Flotte",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/compute-fleet",
+      "score": 5,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:compute",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Azure Functions",
+      "category": "Web Apps",
+      "category_raw": "Azure Functions",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/functions/",
+      "score": 5,
+      "tags": [
+        "Azure",
+        "Web Apps"
+      ],
+      "rationale": [
+        "+3:functions",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "web_apps"
+    },
+    {
+      "name": "Produkt",
+      "category": "Compute",
+      "category_raw": "Microsoft Planetary Computer Pro",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/planetary-computer-pro",
+      "score": 5,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:compute",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Produkt",
+      "category": "Web Apps",
+      "category_raw": "App Service",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/app-service/",
+      "score": 5,
+      "tags": [
+        "Azure",
+        "Web Apps"
+      ],
+      "rationale": [
+        "+3:app service",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "web_apps"
+    },
+    {
+      "name": "Produkt",
+      "category": "VDI",
+      "category_raw": "Azure Virtual Desktop",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-desktop/",
+      "score": 5,
+      "tags": [
+        "Azure",
+        "VDI"
+      ],
+      "rationale": [
+        "+3:virtual desktop",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "vdi"
+    },
+    {
+      "name": "Produkt",
+      "category": "Governance",
+      "category_raw": "API Management",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/api-management/",
+      "score": 5,
+      "tags": [
+        "Azure",
+        "Governance"
+      ],
+      "rationale": [
+        "+3:governance",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "management_governance"
+    },
+    {
+      "name": "Produkt",
+      "category": "Governance",
+      "category_raw": "Updateverwaltungszentrum",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/azure-update-management-center/",
+      "score": 5,
+      "tags": [
+        "Azure",
+        "Governance"
+      ],
+      "rationale": [
+        "+3:governance",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "management_governance"
+    },
+    {
+      "name": "Produkt",
+      "category": "Web Apps",
+      "category_raw": "Azure Web Application Firewall",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/web-application-firewall/",
+      "score": 5,
+      "tags": [
+        "Azure",
+        "Security"
+      ],
+      "rationale": [
+        "+3:firewall",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "security"
+    },
+    {
+      "name": "Virtuelle Linux-Computer in Azure",
+      "category": "Compute",
+      "category_raw": "Virtuelle Linux-Computer",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/linux/",
+      "score": 5,
+      "tags": [
+        "Azure",
+        "Compute"
+      ],
+      "rationale": [
+        "+3:compute",
+        "+1:url-products",
+        "+1:category-known"
+      ],
+      "domain_suggestion": "compute"
+    },
+    {
+      "name": "Azure Cosmos DB",
+      "category": "Unkategorisiert",
+      "category_raw": "Azure Cosmos DB",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/cosmos-db/",
+      "score": 4,
+      "tags": [
+        "Azure",
+        "Databases"
+      ],
+      "rationale": [
+        "+3:cosmos",
+        "+1:url-products"
+      ],
+      "domain_suggestion": "databases"
+    },
+    {
+      "name": "Produkt",
+      "category": "Unkategorisiert",
+      "category_raw": "Azure Policy",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/azure-policy/",
+      "score": 4,
+      "tags": [
+        "Azure",
+        "Governance"
+      ],
+      "rationale": [
+        "+3:policy",
+        "+1:url-products"
+      ],
+      "domain_suggestion": "management_governance"
+    },
+    {
+      "name": "Produkt",
+      "category": "Unkategorisiert",
+      "category_raw": "Azure Firewall",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/azure-firewall/",
+      "score": 4,
+      "tags": [
+        "Azure",
+        "Security"
+      ],
+      "rationale": [
+        "+3:firewall",
+        "+1:url-products"
+      ],
+      "domain_suggestion": "security"
+    },
+    {
+      "name": "Produkt",
+      "category": "Unkategorisiert",
+      "category_raw": "Azure Firewall Manager",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/firewall-manager/",
+      "score": 4,
+      "tags": [
+        "Azure",
+        "Security"
+      ],
+      "rationale": [
+        "+3:firewall",
+        "+1:url-products"
+      ],
+      "domain_suggestion": "security"
+    },
+    {
+      "name": "Produkt",
+      "category": "Unkategorisiert",
+      "category_raw": "Azure Key Vault",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/key-vault/",
+      "score": 4,
+      "tags": [
+        "Azure",
+        "Security"
+      ],
+      "rationale": [
+        "+3:key vault",
+        "+1:url-products"
+      ],
+      "domain_suggestion": "security"
+    },
+    {
+      "name": "Produkt",
+      "category": "Unkategorisiert",
+      "category_raw": "Azure KI Metrics Advisor",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-metrics-advisor/",
+      "score": 3,
+      "tags": [
+        "Azure",
+        "FinOps"
+      ],
+      "rationale": [
+        "+2:advisor",
+        "+1:url-products"
+      ],
+      "domain_suggestion": "management_governance"
+    },
+    {
+      "name": "Produkt",
+      "category": "Unkategorisiert",
+      "category_raw": "Azure Advisor",
+      "description": "",
+      "url": "https://azure.microsoft.com/de-de/products/advisor/",
+      "score": 3,
+      "tags": [
+        "Azure",
+        "FinOps"
+      ],
+      "rationale": [
+        "+2:advisor",
+        "+1:url-products"
+      ],
+      "domain_suggestion": "management_governance"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "onprem_backup_to_azurebackup_standard",
+  "category": "onprem-migrationen",
+  "title": "Backup -> Azure Backup (Standard)",
+  "name": "Backup -> Azure Backup (Standard)",
+  "description": "Backup-Design, Umsetzung, Restore-Tests und Betriebsuebergabe fuer Azure Backup.",
+  "defaultSelected": [
+    "LS-OPM-BACKUP-AZBACKUP-ASSESSMENT-001",
+    "LS-OPM-BACKUP-AZBACKUP-ASSESSMENT-002",
+    "LS-OPM-BACKUP-AZBACKUP-ASSESSMENT-003",
+    "LS-OPM-BACKUP-AZBACKUP-BUILD-001",
+    "LS-OPM-BACKUP-AZBACKUP-BUILD-002",
+    "LS-OPM-BACKUP-AZBACKUP-BUILD-003",
+    "LS-OPM-BACKUP-AZBACKUP-CHANGE-001",
+    "LS-OPM-BACKUP-AZBACKUP-CHANGE-002",
+    "LS-OPM-BACKUP-AZBACKUP-CHANGE-003",
+    "LS-OPM-BACKUP-AZBACKUP-CUTOVER-001",
+    "LS-OPM-BACKUP-AZBACKUP-CUTOVER-002",
+    "LS-OPM-BACKUP-AZBACKUP-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-BACKUP-AZBACKUP-ASSESSMENT-001",
+    "LS-OPM-BACKUP-AZBACKUP-ASSESSMENT-002",
+    "LS-OPM-BACKUP-AZBACKUP-ASSESSMENT-003",
+    "LS-OPM-BACKUP-AZBACKUP-BUILD-001",
+    "LS-OPM-BACKUP-AZBACKUP-BUILD-002",
+    "LS-OPM-BACKUP-AZBACKUP-BUILD-003",
+    "LS-OPM-BACKUP-AZBACKUP-CHANGE-001",
+    "LS-OPM-BACKUP-AZBACKUP-CHANGE-002",
+    "LS-OPM-BACKUP-AZBACKUP-CHANGE-003",
+    "LS-OPM-BACKUP-AZBACKUP-CUTOVER-001",
+    "LS-OPM-BACKUP-AZBACKUP-CUTOVER-002",
+    "LS-OPM-BACKUP-AZBACKUP-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Azure Backup"
+  ],
+  "defaults": {
+    "offerVariant": "Backup -> Azure Backup (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

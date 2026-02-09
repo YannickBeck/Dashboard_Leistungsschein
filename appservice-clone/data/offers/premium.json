@@ -1,0 +1,35 @@
+{
+  "id": "premium",
+  "name": "Premium",
+  "description": "Standard plus Security, Governance, FinOps und Optimierung.",
+  "module_ids": [
+    "LS-1001",
+    "LS-1002",
+    "LS-1003",
+    "LS-1004",
+    "LS-1005",
+    "LS-1007",
+    "LS-1008",
+    "LS-1009",
+    "LS-1010",
+    "LS-1011",
+    "LS-1012",
+    "LS-1013",
+    "LS-1014",
+    "LS-1015",
+    "LS-1016",
+    "LS-1017",
+    "LS-1018",
+    "LS-1019",
+    "LS-1020",
+    "LS-1021",
+    "LS-1023",
+    "LS-1024",
+    "LS-1025",
+    "LS-1026"
+  ],
+  "defaults": {
+    "offerVariant": "Premium",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

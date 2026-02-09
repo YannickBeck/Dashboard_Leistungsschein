@@ -1,0 +1,2670 @@
+{
+  "generated_at": "2026-02-07T18:16:45.138Z",
+  "source_url": "https://azure.microsoft.com/de-de/products",
+  "market": "de-de",
+  "details_enriched": false,
+  "detail_limit": 0,
+  "count_products": 197,
+  "count_categories": 16,
+  "categories": [
+    {
+      "name": "Unkategorisiert",
+      "count": 129,
+      "products": [
+        {
+          "name": "Azure Container Apps",
+          "url": "https://azure.microsoft.com/de-de/products/container-apps/",
+          "description": ""
+        },
+        {
+          "name": "Azure Container Instances​",
+          "url": "https://azure.microsoft.com/de-de/products/container-instances/",
+          "description": ""
+        },
+        {
+          "name": "Azure Container Registry",
+          "url": "https://azure.microsoft.com/de-de/products/container-registry/",
+          "description": ""
+        },
+        {
+          "name": "Azure Content Understanding in Foundry Tools",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/content-understanding",
+          "description": ""
+        },
+        {
+          "name": "Azure Copilot",
+          "url": "https://azure.microsoft.com/de-de/products/copilot",
+          "description": ""
+        },
+        {
+          "name": "Azure Cosmos DB",
+          "url": "https://azure.microsoft.com/de-de/products/cosmos-db/",
+          "description": ""
+        },
+        {
+          "name": "Azure Databricks",
+          "url": "https://azure.microsoft.com/de-de/products/databricks/",
+          "description": ""
+        },
+        {
+          "name": "Azure DocumentDB",
+          "url": "https://azure.microsoft.com/de-de/products/documentdb",
+          "description": ""
+        },
+        {
+          "name": "Azure IoT Edge",
+          "url": "https://azure.microsoft.com/de-de/products/iot-edge/",
+          "description": ""
+        },
+        {
+          "name": "Azure KI-Suche",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-search/",
+          "description": ""
+        },
+        {
+          "name": "Azure Local",
+          "url": "https://azure.microsoft.com/de-de/products/local/",
+          "description": ""
+        },
+        {
+          "name": "Azure Machine Learning",
+          "url": "https://azure.microsoft.com/de-de/products/machine-learning/",
+          "description": ""
+        },
+        {
+          "name": "Azure Managed Redis",
+          "url": "https://azure.microsoft.com/de-de/products/managed-redis/",
+          "description": ""
+        },
+        {
+          "name": "Azure OpenAI in Foundry Models",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/models/openai/",
+          "description": ""
+        },
+        {
+          "name": "Azure Red Hat OpenShift",
+          "url": "https://azure.microsoft.com/de-de/products/openshift/",
+          "description": ""
+        },
+        {
+          "name": "Azure Speech in Foundry Tools",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/speech/",
+          "description": ""
+        },
+        {
+          "name": "Azure Synapse Analytics",
+          "url": "https://azure.microsoft.com/de-de/products/synapse-analytics/",
+          "description": ""
+        },
+        {
+          "name": "Foundry Agent Service",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/agent-service/",
+          "description": ""
+        },
+        {
+          "name": "Foundry Models",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/models/",
+          "description": ""
+        },
+        {
+          "name": "Foundry Tools",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/",
+          "description": ""
+        },
+        {
+          "name": "GitHub Copilot",
+          "url": "https://azure.microsoft.com/de-de/products/github/copilot",
+          "description": ""
+        },
+        {
+          "name": "Microsoft Foundry",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/",
+          "description": ""
+        },
+        {
+          "name": "Observability in Foundry Control Plane",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/observability",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-bot-service/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-search",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/open-datasets/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-video-indexer/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-custom-vision/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/conversational-language-understanding/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/language",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/translator",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-metrics-advisor/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/openai-service/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-personalizer/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/bot-services/health-bot/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/document-intelligence",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-anomaly-detector/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-model-catalog",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-immersive-reader/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/phi-3",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-agent-service/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/sre-agent",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/vision",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/analysis-services/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/data-explorer/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/data-factory/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/data-share/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/stream-analytics/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/data-catalog/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/data-lake-analytics/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/event-hubs/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/hdinsight/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/power-bi-embedded/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/graph-data-connect/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/chaos-studio/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/quantum/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/spring-apps/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-vmware/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/batch/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/cloud-services/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-machines/dedicated-host/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/image-builder/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/nutanix",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/app-configuration/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/managed-redis",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/managed-instance-apache-cassandra/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-confidential-ledger/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/horizondb",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/devtest-lab/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/visual-studio/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/visual-studio-code/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/app-testing/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/dev-box/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/deployment-environments/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/playwright-testing/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/artifact-signing",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/managed-grafana/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/github",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-arc/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/expressroute/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/microsoft-sentinel/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-stack/hub/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-stack/edge/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/operator-service-manager/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/operator-nexus/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/health-data-services/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/data-manager-for-energy",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/digital-twins/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/iot-hub/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/iot-operations",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-maps/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/notification-hubs/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/windows-iot/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-sphere/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/automation/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/advisor/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/blueprints/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-lighthouse/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/managed-applications/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-policy/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/arm-templates/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/traffic-manager/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-automanage/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/resource-mover/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/databox/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/communication-services/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/application-gateway",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-bastion/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ddos-protection/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-firewall/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/route-server/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/frontdoor/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-nat-gateway",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/load-balancer/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/private-link/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/firewall-manager/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-wan/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/vpn-gateway/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/cloud-hsm",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/key-vault/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-attestation/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/managed-lustre/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/lab-services/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/signalr-service/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/fluid-relay/",
+          "description": ""
+        },
+        {
+          "name": "Produkte",
+          "url": "https://azure.microsoft.com/de-de/products/",
+          "description": ""
+        },
+        {
+          "name": "Windows Server",
+          "url": "https://azure.microsoft.com/de-de/products/windows-server/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Storage",
+      "count": 15,
+      "products": [
+        {
+          "name": "Azure Storage Mover",
+          "url": "https://azure.microsoft.com/de-de/products/resource-mover",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage/data-lake-storage/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/container-storage/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage/tables/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage-mover",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage/files/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage-actions",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/netapp/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage/blobs/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage/disks/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage/elastic-san/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage/queues/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage/storage-explorer/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/storage-discovery",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Compute",
+      "count": 8,
+      "products": [
+        {
+          "name": "Azure Computing-Flotte",
+          "url": "https://azure.microsoft.com/de-de/products/compute-fleet",
+          "description": ""
+        },
+        {
+          "name": "Azure Spot Virtual Machines",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-machines/spot/",
+          "description": ""
+        },
+        {
+          "name": "Azure Virtual Machine Scale Sets",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-machine-scale-sets/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-machines/data-science-virtual-machines/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/planetary-computer-pro",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-machines/windows/",
+          "description": ""
+        },
+        {
+          "name": "SQL Server auf Azure Virtual Machines",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-machines/sql-server/",
+          "description": ""
+        },
+        {
+          "name": "Virtuelle Linux-Computer in Azure",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-machines/linux/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "DevOps",
+      "count": 7,
+      "products": [
+        {
+          "name": "Azure DevOps",
+          "url": "https://azure.microsoft.com/de-de/products/devops/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/devops/pipelines/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/devops/artifacts/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/devops/boards/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/devops/pipelines",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/devops/repos/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/devops/test-plans/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Databases",
+      "count": 6,
+      "products": [
+        {
+          "name": "Azure Database for PostgreSQL",
+          "url": "https://azure.microsoft.com/de-de/products/postgresql/",
+          "description": ""
+        },
+        {
+          "name": "Azure SQL",
+          "url": "https://azure.microsoft.com/de-de/products/azure-sql/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-sql/database/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-sql/managed-instance/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/mysql/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/database-migration/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Network",
+      "count": 6,
+      "products": [
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/network-watcher/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/cdn/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/dns/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-network-function-manager/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-network-manager",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-network/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "count": 5,
+      "products": [
+        {
+          "name": "Microsoft Defender for Cloud",
+          "url": "https://azure.microsoft.com/de-de/products/defender-for-cloud/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-content-safety/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/devops/github-advanced-security",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/github/Advanced-Security",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/defender-external-attack-surface-management/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Web Apps",
+      "count": 5,
+      "products": [
+        {
+          "name": "Azure Functions",
+          "url": "https://azure.microsoft.com/de-de/products/functions/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/app-service/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/app-service/static/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/web-pubsub/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/web-application-firewall/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Containers",
+      "count": 3,
+      "products": [
+        {
+          "name": "Azure Kubernetes Fleet Manager",
+          "url": "https://azure.microsoft.com/de-de/products/kubernetes-fleet-manager/",
+          "description": ""
+        },
+        {
+          "name": "Azure Kubernetes Service (AKS)",
+          "url": "https://azure.microsoft.com/de-de/products/kubernetes-service/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/hdinsight-on-aks/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Governance",
+      "count": 3,
+      "products": [
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/api-management/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/cost-management/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/azure-update-management-center/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Integration",
+      "count": 3,
+      "products": [
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/event-grid/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/logic-apps/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/service-bus/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Backup & DR",
+      "count": 2,
+      "products": [
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/backup/",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/site-recovery/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Identity",
+      "count": 2,
+      "products": [
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/microsoft-entra-ds",
+          "description": ""
+        },
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/iot-central/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Migration",
+      "count": 1,
+      "products": [
+        {
+          "name": "Azure Migrate",
+          "url": "https://azure.microsoft.com/de-de/products/azure-migrate/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "count": 1,
+      "products": [
+        {
+          "name": "Azure Monitor",
+          "url": "https://azure.microsoft.com/de-de/products/monitor/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "VDI",
+      "count": 1,
+      "products": [
+        {
+          "name": "Produkt",
+          "url": "https://azure.microsoft.com/de-de/products/virtual-desktop/",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "index": 1,
+      "name": "Azure Computing-Flotte",
+      "category_raw": "Azure Computing-Flotte",
+      "category": "Compute",
+      "url": "https://azure.microsoft.com/de-de/products/compute-fleet",
+      "description": ""
+    },
+    {
+      "index": 2,
+      "name": "Azure Container Apps",
+      "category_raw": "Azure Container Apps",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/container-apps/",
+      "description": ""
+    },
+    {
+      "index": 3,
+      "name": "Azure Container Instances​",
+      "category_raw": "Azure Container Instances",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/container-instances/",
+      "description": ""
+    },
+    {
+      "index": 4,
+      "name": "Azure Container Registry",
+      "category_raw": "Azure Container Registry",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/container-registry/",
+      "description": ""
+    },
+    {
+      "index": 5,
+      "name": "Azure Content Understanding in Foundry Tools",
+      "category_raw": "Azure Content Understanding in Foundry Tools",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/content-understanding",
+      "description": ""
+    },
+    {
+      "index": 6,
+      "name": "Azure Copilot",
+      "category_raw": "Azure Copilot",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/copilot",
+      "description": ""
+    },
+    {
+      "index": 7,
+      "name": "Azure Cosmos DB",
+      "category_raw": "Azure Cosmos DB",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/cosmos-db/",
+      "description": ""
+    },
+    {
+      "index": 8,
+      "name": "Azure Database for PostgreSQL",
+      "category_raw": "Azure Database for PostgreSQL",
+      "category": "Databases",
+      "url": "https://azure.microsoft.com/de-de/products/postgresql/",
+      "description": ""
+    },
+    {
+      "index": 9,
+      "name": "Azure Databricks",
+      "category_raw": "Azure Databricks",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/databricks/",
+      "description": ""
+    },
+    {
+      "index": 10,
+      "name": "Azure DevOps",
+      "category_raw": "Azure DevOps",
+      "category": "DevOps",
+      "url": "https://azure.microsoft.com/de-de/products/devops/",
+      "description": ""
+    },
+    {
+      "index": 11,
+      "name": "Azure DocumentDB",
+      "category_raw": "Azure DocumentDB",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/documentdb",
+      "description": ""
+    },
+    {
+      "index": 12,
+      "name": "Azure Functions",
+      "category_raw": "Azure Functions",
+      "category": "Web Apps",
+      "url": "https://azure.microsoft.com/de-de/products/functions/",
+      "description": ""
+    },
+    {
+      "index": 13,
+      "name": "Azure IoT Edge",
+      "category_raw": "Azure IoT Edge",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/iot-edge/",
+      "description": ""
+    },
+    {
+      "index": 14,
+      "name": "Azure KI-Suche",
+      "category_raw": "Unkategorisiert",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-search/",
+      "description": ""
+    },
+    {
+      "index": 15,
+      "name": "Azure Kubernetes Fleet Manager",
+      "category_raw": "Azure Kubernetes Fleet Manager",
+      "category": "Containers",
+      "url": "https://azure.microsoft.com/de-de/products/kubernetes-fleet-manager/",
+      "description": ""
+    },
+    {
+      "index": 16,
+      "name": "Azure Kubernetes Service (AKS)",
+      "category_raw": "Azure Kubernetes Service (AKS)",
+      "category": "Containers",
+      "url": "https://azure.microsoft.com/de-de/products/kubernetes-service/",
+      "description": ""
+    },
+    {
+      "index": 17,
+      "name": "Azure Local",
+      "category_raw": "Azure Local",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/local/",
+      "description": ""
+    },
+    {
+      "index": 18,
+      "name": "Azure Machine Learning",
+      "category_raw": "Azure Machine Learning",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/machine-learning/",
+      "description": ""
+    },
+    {
+      "index": 19,
+      "name": "Azure Managed Redis",
+      "category_raw": "Unkategorisiert",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/managed-redis/",
+      "description": ""
+    },
+    {
+      "index": 20,
+      "name": "Azure Migrate",
+      "category_raw": "Azure Migrate",
+      "category": "Migration",
+      "url": "https://azure.microsoft.com/de-de/products/azure-migrate/",
+      "description": ""
+    },
+    {
+      "index": 21,
+      "name": "Azure Monitor",
+      "category_raw": "Azure Monitor",
+      "category": "Monitoring",
+      "url": "https://azure.microsoft.com/de-de/products/monitor/",
+      "description": ""
+    },
+    {
+      "index": 22,
+      "name": "Azure OpenAI in Foundry Models",
+      "category_raw": "Unkategorisiert",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/models/openai/",
+      "description": ""
+    },
+    {
+      "index": 23,
+      "name": "Azure Red Hat OpenShift",
+      "category_raw": "Azure Red Hat OpenShift",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/openshift/",
+      "description": ""
+    },
+    {
+      "index": 24,
+      "name": "Azure Speech in Foundry Tools",
+      "category_raw": "Azure Speech in Foundry Tools",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/speech/",
+      "description": ""
+    },
+    {
+      "index": 25,
+      "name": "Azure Spot Virtual Machines",
+      "category_raw": "Azure Spot Virtual Machines",
+      "category": "Compute",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/spot/",
+      "description": ""
+    },
+    {
+      "index": 26,
+      "name": "Azure SQL",
+      "category_raw": "Azure SQL",
+      "category": "Databases",
+      "url": "https://azure.microsoft.com/de-de/products/azure-sql/",
+      "description": ""
+    },
+    {
+      "index": 27,
+      "name": "Azure Storage Mover",
+      "category_raw": "Unkategorisiert",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/resource-mover",
+      "description": ""
+    },
+    {
+      "index": 28,
+      "name": "Azure Synapse Analytics",
+      "category_raw": "Azure Synapse Analytics",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/synapse-analytics/",
+      "description": ""
+    },
+    {
+      "index": 29,
+      "name": "Azure Virtual Machine Scale Sets",
+      "category_raw": "Virtual Machine Scale Sets",
+      "category": "Compute",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machine-scale-sets/",
+      "description": ""
+    },
+    {
+      "index": 30,
+      "name": "Foundry Agent Service",
+      "category_raw": "Unkategorisiert",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/agent-service/",
+      "description": ""
+    },
+    {
+      "index": 31,
+      "name": "Foundry Models",
+      "category_raw": "Unkategorisiert",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/models/",
+      "description": ""
+    },
+    {
+      "index": 32,
+      "name": "Foundry Tools",
+      "category_raw": "Foundry Tools",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/",
+      "description": ""
+    },
+    {
+      "index": 33,
+      "name": "GitHub Copilot",
+      "category_raw": "GitHub Copilot",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/github/copilot",
+      "description": ""
+    },
+    {
+      "index": 34,
+      "name": "Microsoft Defender for Cloud",
+      "category_raw": "Microsoft Defender for Cloud",
+      "category": "Security",
+      "url": "https://azure.microsoft.com/de-de/products/defender-for-cloud/",
+      "description": ""
+    },
+    {
+      "index": 35,
+      "name": "Microsoft Foundry",
+      "category_raw": "Unkategorisiert",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/",
+      "description": ""
+    },
+    {
+      "index": 36,
+      "name": "Observability in Foundry Control Plane",
+      "category_raw": "Observability in der Foundry-Steuerungsebene",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/observability",
+      "description": ""
+    },
+    {
+      "index": 37,
+      "name": "Produkt",
+      "category_raw": "Microsoft Foundry",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry",
+      "description": ""
+    },
+    {
+      "index": 38,
+      "name": "Produkt",
+      "category_raw": "Azure KI Bot Service",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-bot-service/",
+      "description": ""
+    },
+    {
+      "index": 39,
+      "name": "Produkt",
+      "category_raw": "Azure KI-Suche",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-search",
+      "description": ""
+    },
+    {
+      "index": 40,
+      "name": "Produkt",
+      "category_raw": "Azure Open Datasets",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/open-datasets/",
+      "description": ""
+    },
+    {
+      "index": 41,
+      "name": "Produkt",
+      "category_raw": "Azure KI Video Indexer",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-video-indexer/",
+      "description": ""
+    },
+    {
+      "index": 42,
+      "name": "Produkt",
+      "category_raw": "Azure KI Custom Vision",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-custom-vision/",
+      "description": ""
+    },
+    {
+      "index": 43,
+      "name": "Produkt",
+      "category_raw": "Data Science Virtual Machines",
+      "category": "Compute",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/data-science-virtual-machines/",
+      "description": ""
+    },
+    {
+      "index": 44,
+      "name": "Produkt",
+      "category_raw": "Language Understanding Intelligent Service (LUIS)",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/conversational-language-understanding/",
+      "description": ""
+    },
+    {
+      "index": 45,
+      "name": "Produkt",
+      "category_raw": "Azure Language in Foundry Tools",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/language",
+      "description": ""
+    },
+    {
+      "index": 46,
+      "name": "Produkt",
+      "category_raw": "Azure Translator in Foundry Tools",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/translator",
+      "description": ""
+    },
+    {
+      "index": 47,
+      "name": "Produkt",
+      "category_raw": "Azure KI Metrics Advisor",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-metrics-advisor/",
+      "description": ""
+    },
+    {
+      "index": 48,
+      "name": "Produkt",
+      "category_raw": "Azure OpenAI in Foundry Models",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/openai-service/",
+      "description": ""
+    },
+    {
+      "index": 49,
+      "name": "Produkt",
+      "category_raw": "Azure KI Personalisierung",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-personalizer/",
+      "description": ""
+    },
+    {
+      "index": 50,
+      "name": "Produkt",
+      "category_raw": "Inhaltssicherheit auf der Foundry-Steuerungsebene",
+      "category": "Security",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-content-safety/",
+      "description": ""
+    },
+    {
+      "index": 51,
+      "name": "Produkt",
+      "category_raw": "Health Bot",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/bot-services/health-bot/",
+      "description": ""
+    },
+    {
+      "index": 52,
+      "name": "Produkt",
+      "category_raw": "Azure Document Intelligence in Foundry Tools",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/document-intelligence",
+      "description": ""
+    },
+    {
+      "index": 53,
+      "name": "Produkt",
+      "category_raw": "KI Anomalieerkennung",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-anomaly-detector/",
+      "description": ""
+    },
+    {
+      "index": 54,
+      "name": "Produkt",
+      "category_raw": "Foundry Models",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-model-catalog",
+      "description": ""
+    },
+    {
+      "index": 55,
+      "name": "Produkt",
+      "category_raw": "Azure KI Immersive Reader",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/ai-immersive-reader/",
+      "description": ""
+    },
+    {
+      "index": 56,
+      "name": "Produkt",
+      "category_raw": "Offene Phi-Modelle",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/phi-3",
+      "description": ""
+    },
+    {
+      "index": 57,
+      "name": "Produkt",
+      "category_raw": "Microsoft Planetary Computer Pro",
+      "category": "Compute",
+      "url": "https://azure.microsoft.com/de-de/products/planetary-computer-pro",
+      "description": ""
+    },
+    {
+      "index": 58,
+      "name": "Produkt",
+      "category_raw": "Foundry Agent Service",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-agent-service/",
+      "description": ""
+    },
+    {
+      "index": 59,
+      "name": "Produkt",
+      "category_raw": "Azure SRE Agent",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/sre-agent",
+      "description": ""
+    },
+    {
+      "index": 60,
+      "name": "Produkt",
+      "category_raw": "Azure Vision in Foundry Tools",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-foundry/tools/vision",
+      "description": ""
+    },
+    {
+      "index": 61,
+      "name": "Produkt",
+      "category_raw": "Azure Analysis Services",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/analysis-services/",
+      "description": ""
+    },
+    {
+      "index": 62,
+      "name": "Produkt",
+      "category_raw": "Azure Data Explorer",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/data-explorer/",
+      "description": ""
+    },
+    {
+      "index": 63,
+      "name": "Produkt",
+      "category_raw": "Azure Data Factory",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/data-factory/",
+      "description": ""
+    },
+    {
+      "index": 64,
+      "name": "Produkt",
+      "category_raw": "Azure Data Lake Storage",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage/data-lake-storage/",
+      "description": ""
+    },
+    {
+      "index": 65,
+      "name": "Produkt",
+      "category_raw": "Azure Data Share",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/data-share/",
+      "description": ""
+    },
+    {
+      "index": 66,
+      "name": "Produkt",
+      "category_raw": "Azure Stream Analytics",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/stream-analytics/",
+      "description": ""
+    },
+    {
+      "index": 67,
+      "name": "Produkt",
+      "category_raw": "Data Catalog",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/data-catalog/",
+      "description": ""
+    },
+    {
+      "index": 68,
+      "name": "Produkt",
+      "category_raw": "Data Lake Analytics",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/data-lake-analytics/",
+      "description": ""
+    },
+    {
+      "index": 69,
+      "name": "Produkt",
+      "category_raw": "Event Hubs",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/event-hubs/",
+      "description": ""
+    },
+    {
+      "index": 70,
+      "name": "Produkt",
+      "category_raw": "HDInsight",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/hdinsight/",
+      "description": ""
+    },
+    {
+      "index": 71,
+      "name": "Produkt",
+      "category_raw": "Power BI Embedded",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/power-bi-embedded/",
+      "description": ""
+    },
+    {
+      "index": 72,
+      "name": "Produkt",
+      "category_raw": "Microsoft Graph Data Connect",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/graph-data-connect/",
+      "description": ""
+    },
+    {
+      "index": 73,
+      "name": "Produkt",
+      "category_raw": "Azure Chaos Studio",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/chaos-studio/",
+      "description": ""
+    },
+    {
+      "index": 74,
+      "name": "Produkt",
+      "category_raw": "Azure HDInsight in Azure Kubernetes Service (AKS)",
+      "category": "Containers",
+      "url": "https://azure.microsoft.com/de-de/products/hdinsight-on-aks/",
+      "description": ""
+    },
+    {
+      "index": 75,
+      "name": "Produkt",
+      "category_raw": "App Service",
+      "category": "Web Apps",
+      "url": "https://azure.microsoft.com/de-de/products/app-service/",
+      "description": ""
+    },
+    {
+      "index": 76,
+      "name": "Produkt",
+      "category_raw": "Azure Quantum",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/quantum/",
+      "description": ""
+    },
+    {
+      "index": 77,
+      "name": "Produkt",
+      "category_raw": "Azure Spring Apps",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/spring-apps/",
+      "description": ""
+    },
+    {
+      "index": 78,
+      "name": "Produkt",
+      "category_raw": "Azure VMware Solution",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-vmware/",
+      "description": ""
+    },
+    {
+      "index": 79,
+      "name": "Produkt",
+      "category_raw": "Batch",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/batch/",
+      "description": ""
+    },
+    {
+      "index": 80,
+      "name": "Produkt",
+      "category_raw": "Cloud Services",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/cloud-services/",
+      "description": ""
+    },
+    {
+      "index": 81,
+      "name": "Produkt",
+      "category_raw": "Static Web Apps",
+      "category": "Web Apps",
+      "url": "https://azure.microsoft.com/de-de/products/app-service/static/",
+      "description": ""
+    },
+    {
+      "index": 82,
+      "name": "Produkt",
+      "category_raw": "Virtual Machines",
+      "category": "Compute",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/windows/",
+      "description": ""
+    },
+    {
+      "index": 83,
+      "name": "Produkt",
+      "category_raw": "Azure Virtual Desktop",
+      "category": "VDI",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-desktop/",
+      "description": ""
+    },
+    {
+      "index": 84,
+      "name": "Produkt",
+      "category_raw": "Azure Dedicated Host",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/dedicated-host/",
+      "description": ""
+    },
+    {
+      "index": 85,
+      "name": "Produkt",
+      "category_raw": "Azure VM Image Builder",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/image-builder/",
+      "description": ""
+    },
+    {
+      "index": 86,
+      "name": "Produkt",
+      "category_raw": "Nutanix Cloud Clusters",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/nutanix",
+      "description": ""
+    },
+    {
+      "index": 87,
+      "name": "Produkt",
+      "category_raw": "App Configuration",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/app-configuration/",
+      "description": ""
+    },
+    {
+      "index": 88,
+      "name": "Produkt",
+      "category_raw": "Azure Container Storage",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/container-storage/",
+      "description": ""
+    },
+    {
+      "index": 89,
+      "name": "Produkt",
+      "category_raw": "Azure SQL-Datenbank",
+      "category": "Databases",
+      "url": "https://azure.microsoft.com/de-de/products/azure-sql/database/",
+      "description": ""
+    },
+    {
+      "index": 90,
+      "name": "Produkt",
+      "category_raw": "Azure SQL Managed Instance",
+      "category": "Databases",
+      "url": "https://azure.microsoft.com/de-de/products/azure-sql/managed-instance/",
+      "description": ""
+    },
+    {
+      "index": 91,
+      "name": "Produkt",
+      "category_raw": "Azure Database for MySQL",
+      "category": "Databases",
+      "url": "https://azure.microsoft.com/de-de/products/mysql/",
+      "description": ""
+    },
+    {
+      "index": 92,
+      "name": "Produkt",
+      "category_raw": "Azure Managed Redis",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/managed-redis",
+      "description": ""
+    },
+    {
+      "index": 93,
+      "name": "Produkt",
+      "category_raw": "Azure Database Migration Service",
+      "category": "Databases",
+      "url": "https://azure.microsoft.com/de-de/products/database-migration/",
+      "description": ""
+    },
+    {
+      "index": 94,
+      "name": "Produkt",
+      "category_raw": "Azure Managed Instance for Apache Cassandra",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/managed-instance-apache-cassandra/",
+      "description": ""
+    },
+    {
+      "index": 95,
+      "name": "Produkt",
+      "category_raw": "Table Storage",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage/tables/",
+      "description": ""
+    },
+    {
+      "index": 96,
+      "name": "Produkt",
+      "category_raw": "Azure Confidential Ledger",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-confidential-ledger/",
+      "description": ""
+    },
+    {
+      "index": 97,
+      "name": "Produkt",
+      "category_raw": "Azure HorizonDB",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/horizondb",
+      "description": ""
+    },
+    {
+      "index": 98,
+      "name": "Produkt",
+      "category_raw": "Azure DevTest Labs",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/devtest-lab/",
+      "description": ""
+    },
+    {
+      "index": 99,
+      "name": "Produkt",
+      "category_raw": "Azure Pipelines",
+      "category": "DevOps",
+      "url": "https://azure.microsoft.com/de-de/products/devops/pipelines/",
+      "description": ""
+    },
+    {
+      "index": 100,
+      "name": "Produkt",
+      "category_raw": "Visual Studio",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/visual-studio/",
+      "description": ""
+    },
+    {
+      "index": 101,
+      "name": "Produkt",
+      "category_raw": "Visual Studio Code",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/visual-studio-code/",
+      "description": ""
+    },
+    {
+      "index": 102,
+      "name": "Produkt",
+      "category_raw": "Azure App Testing",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/app-testing/",
+      "description": ""
+    },
+    {
+      "index": 103,
+      "name": "Produkt",
+      "category_raw": "Microsoft Dev Box",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/dev-box/",
+      "description": ""
+    },
+    {
+      "index": 104,
+      "name": "Produkt",
+      "category_raw": "Azure Deployment Environments",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/deployment-environments/",
+      "description": ""
+    },
+    {
+      "index": 105,
+      "name": "Produkt",
+      "category_raw": "Microsoft Playwright Testing",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/playwright-testing/",
+      "description": ""
+    },
+    {
+      "index": 106,
+      "name": "Produkt",
+      "category_raw": "Artefakt-Signierung",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/artifact-signing",
+      "description": ""
+    },
+    {
+      "index": 107,
+      "name": "Produkt",
+      "category_raw": "Azure Artifacts",
+      "category": "DevOps",
+      "url": "https://azure.microsoft.com/de-de/products/devops/artifacts/",
+      "description": ""
+    },
+    {
+      "index": 108,
+      "name": "Produkt",
+      "category_raw": "Azure Boards",
+      "category": "DevOps",
+      "url": "https://azure.microsoft.com/de-de/products/devops/boards/",
+      "description": ""
+    },
+    {
+      "index": 109,
+      "name": "Produkt",
+      "category_raw": "Azure Pipelines",
+      "category": "DevOps",
+      "url": "https://azure.microsoft.com/de-de/products/devops/pipelines",
+      "description": ""
+    },
+    {
+      "index": 110,
+      "name": "Produkt",
+      "category_raw": "Azure Repos",
+      "category": "DevOps",
+      "url": "https://azure.microsoft.com/de-de/products/devops/repos/",
+      "description": ""
+    },
+    {
+      "index": 111,
+      "name": "Produkt",
+      "category_raw": "Azure Test Plans",
+      "category": "DevOps",
+      "url": "https://azure.microsoft.com/de-de/products/devops/test-plans/",
+      "description": ""
+    },
+    {
+      "index": 112,
+      "name": "Produkt",
+      "category_raw": "Azure Managed Grafana",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/managed-grafana/",
+      "description": ""
+    },
+    {
+      "index": 113,
+      "name": "Produkt",
+      "category_raw": "GitHub Advanced Security für Azure DevOps",
+      "category": "Security",
+      "url": "https://azure.microsoft.com/de-de/products/devops/github-advanced-security",
+      "description": ""
+    },
+    {
+      "index": 114,
+      "name": "Produkt",
+      "category_raw": "Github Enterprise",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/github",
+      "description": ""
+    },
+    {
+      "index": 115,
+      "name": "Produkt",
+      "category_raw": "GitHub Advanced Security",
+      "category": "Security",
+      "url": "https://azure.microsoft.com/de-de/products/github/Advanced-Security",
+      "description": ""
+    },
+    {
+      "index": 116,
+      "name": "Produkt",
+      "category_raw": "Azure Arc",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-arc/",
+      "description": ""
+    },
+    {
+      "index": 117,
+      "name": "Produkt",
+      "category_raw": "Azure ExpressRoute",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/expressroute/",
+      "description": ""
+    },
+    {
+      "index": 118,
+      "name": "Produkt",
+      "category_raw": "Microsoft Sentinel",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/microsoft-sentinel/",
+      "description": ""
+    },
+    {
+      "index": 119,
+      "name": "Produkt",
+      "category_raw": "Azure Stack Hub",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-stack/hub/",
+      "description": ""
+    },
+    {
+      "index": 120,
+      "name": "Produkt",
+      "category_raw": "Azure Stack Edge",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-stack/edge/",
+      "description": ""
+    },
+    {
+      "index": 121,
+      "name": "Produkt",
+      "category_raw": "Azure Operator Service Manager",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/operator-service-manager/",
+      "description": ""
+    },
+    {
+      "index": 122,
+      "name": "Produkt",
+      "category_raw": "Azure Operator Nexus",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/operator-nexus/",
+      "description": ""
+    },
+    {
+      "index": 123,
+      "name": "Produkt",
+      "category_raw": "Microsoft Entra Domain Services",
+      "category": "Identity",
+      "url": "https://azure.microsoft.com/de-de/products/microsoft-entra-ds",
+      "description": ""
+    },
+    {
+      "index": 124,
+      "name": "Produkt",
+      "category_raw": "API Management",
+      "category": "Governance",
+      "url": "https://azure.microsoft.com/de-de/products/api-management/",
+      "description": ""
+    },
+    {
+      "index": 125,
+      "name": "Produkt",
+      "category_raw": "Azure Health Data Services",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/health-data-services/",
+      "description": ""
+    },
+    {
+      "index": 126,
+      "name": "Produkt",
+      "category_raw": "Event Grid",
+      "category": "Integration",
+      "url": "https://azure.microsoft.com/de-de/products/event-grid/",
+      "description": ""
+    },
+    {
+      "index": 127,
+      "name": "Produkt",
+      "category_raw": "Logic Apps",
+      "category": "Integration",
+      "url": "https://azure.microsoft.com/de-de/products/logic-apps/",
+      "description": ""
+    },
+    {
+      "index": 128,
+      "name": "Produkt",
+      "category_raw": "Service Bus",
+      "category": "Integration",
+      "url": "https://azure.microsoft.com/de-de/products/service-bus/",
+      "description": ""
+    },
+    {
+      "index": 129,
+      "name": "Produkt",
+      "category_raw": "Azure Web PubSub",
+      "category": "Web Apps",
+      "url": "https://azure.microsoft.com/de-de/products/web-pubsub/",
+      "description": ""
+    },
+    {
+      "index": 130,
+      "name": "Produkt",
+      "category_raw": "Microsoft Energy Data Services",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/data-manager-for-energy",
+      "description": ""
+    },
+    {
+      "index": 131,
+      "name": "Produkt",
+      "category_raw": "Azure Digital Twins",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/digital-twins/",
+      "description": ""
+    },
+    {
+      "index": 132,
+      "name": "Produkt",
+      "category_raw": "Azure IoT Central",
+      "category": "Identity",
+      "url": "https://azure.microsoft.com/de-de/products/iot-central/",
+      "description": ""
+    },
+    {
+      "index": 133,
+      "name": "Produkt",
+      "category_raw": "Azure IoT Hub",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/iot-hub/",
+      "description": ""
+    },
+    {
+      "index": 134,
+      "name": "Produkt",
+      "category_raw": "Azure IoT Einsatz",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/iot-operations",
+      "description": ""
+    },
+    {
+      "index": 135,
+      "name": "Produkt",
+      "category_raw": "Azure Maps",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-maps/",
+      "description": ""
+    },
+    {
+      "index": 136,
+      "name": "Produkt",
+      "category_raw": "Notification Hubs",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/notification-hubs/",
+      "description": ""
+    },
+    {
+      "index": 137,
+      "name": "Produkt",
+      "category_raw": "Windows für IoT",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/windows-iot/",
+      "description": ""
+    },
+    {
+      "index": 138,
+      "name": "Produkt",
+      "category_raw": "Azure Sphere",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-sphere/",
+      "description": ""
+    },
+    {
+      "index": 139,
+      "name": "Produkt",
+      "category_raw": "Automation",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/automation/",
+      "description": ""
+    },
+    {
+      "index": 140,
+      "name": "Produkt",
+      "category_raw": "Azure Advisor",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/advisor/",
+      "description": ""
+    },
+    {
+      "index": 141,
+      "name": "Produkt",
+      "category_raw": "Defender External Attack Surface Management",
+      "category": "Security",
+      "url": "https://azure.microsoft.com/de-de/products/defender-external-attack-surface-management/",
+      "description": ""
+    },
+    {
+      "index": 142,
+      "name": "Produkt",
+      "category_raw": "Azure Backup",
+      "category": "Backup & DR",
+      "url": "https://azure.microsoft.com/de-de/products/backup/",
+      "description": ""
+    },
+    {
+      "index": 143,
+      "name": "Produkt",
+      "category_raw": "Azure Blueprints",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/blueprints/",
+      "description": ""
+    },
+    {
+      "index": 144,
+      "name": "Produkt",
+      "category_raw": "Azure Lighthouse",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-lighthouse/",
+      "description": ""
+    },
+    {
+      "index": 145,
+      "name": "Produkt",
+      "category_raw": "Azure Managed Applications",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/managed-applications/",
+      "description": ""
+    },
+    {
+      "index": 146,
+      "name": "Produkt",
+      "category_raw": "Azure Policy",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-policy/",
+      "description": ""
+    },
+    {
+      "index": 147,
+      "name": "Produkt",
+      "category_raw": "Azure Resource Manager-Vorlagen",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/arm-templates/",
+      "description": ""
+    },
+    {
+      "index": 148,
+      "name": "Produkt",
+      "category_raw": "Azure Site Recovery",
+      "category": "Backup & DR",
+      "url": "https://azure.microsoft.com/de-de/products/site-recovery/",
+      "description": ""
+    },
+    {
+      "index": 149,
+      "name": "Produkt",
+      "category_raw": "Microsoft Cost Management",
+      "category": "Governance",
+      "url": "https://azure.microsoft.com/de-de/products/cost-management/",
+      "description": ""
+    },
+    {
+      "index": 150,
+      "name": "Produkt",
+      "category_raw": "Azure Network Watcher",
+      "category": "Network",
+      "url": "https://azure.microsoft.com/de-de/products/network-watcher/",
+      "description": ""
+    },
+    {
+      "index": 151,
+      "name": "Produkt",
+      "category_raw": "Azure Traffic Manager",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/traffic-manager/",
+      "description": ""
+    },
+    {
+      "index": 152,
+      "name": "Produkt",
+      "category_raw": "Azure Automanage",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-automanage/",
+      "description": ""
+    },
+    {
+      "index": 153,
+      "name": "Produkt",
+      "category_raw": "Azure Resource Mover",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/resource-mover/",
+      "description": ""
+    },
+    {
+      "index": 154,
+      "name": "Produkt",
+      "category_raw": "Updateverwaltungszentrum",
+      "category": "Governance",
+      "url": "https://azure.microsoft.com/de-de/products/azure-update-management-center/",
+      "description": ""
+    },
+    {
+      "index": 155,
+      "name": "Produkt",
+      "category_raw": "Content Delivery Network",
+      "category": "Network",
+      "url": "https://azure.microsoft.com/de-de/products/cdn/",
+      "description": ""
+    },
+    {
+      "index": 156,
+      "name": "Produkt",
+      "category_raw": "Azure Data Box",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/databox/",
+      "description": ""
+    },
+    {
+      "index": 157,
+      "name": "Produkt",
+      "category_raw": "Azure Storage Mover",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage-mover",
+      "description": ""
+    },
+    {
+      "index": 158,
+      "name": "Produkt",
+      "category_raw": "Azure KI Services",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ai-services/",
+      "description": ""
+    },
+    {
+      "index": 159,
+      "name": "Produkt",
+      "category_raw": "Azure Communication Services",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/communication-services/",
+      "description": ""
+    },
+    {
+      "index": 160,
+      "name": "Produkt",
+      "category_raw": "Azure Application Gateway",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/application-gateway",
+      "description": ""
+    },
+    {
+      "index": 161,
+      "name": "Produkt",
+      "category_raw": "Azure Bastion",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-bastion/",
+      "description": ""
+    },
+    {
+      "index": 162,
+      "name": "Produkt",
+      "category_raw": "Azure DDoS Protection",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/ddos-protection/",
+      "description": ""
+    },
+    {
+      "index": 163,
+      "name": "Produkt",
+      "category_raw": "Azure DNS",
+      "category": "Network",
+      "url": "https://azure.microsoft.com/de-de/products/dns/",
+      "description": ""
+    },
+    {
+      "index": 164,
+      "name": "Produkt",
+      "category_raw": "Azure Firewall",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-firewall/",
+      "description": ""
+    },
+    {
+      "index": 165,
+      "name": "Produkt",
+      "category_raw": "Azure Route Server",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/route-server/",
+      "description": ""
+    },
+    {
+      "index": 166,
+      "name": "Produkt",
+      "category_raw": "Azure Web Application Firewall",
+      "category": "Web Apps",
+      "url": "https://azure.microsoft.com/de-de/products/web-application-firewall/",
+      "description": ""
+    },
+    {
+      "index": 167,
+      "name": "Produkt",
+      "category_raw": "Azure Front Door",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/frontdoor/",
+      "description": ""
+    },
+    {
+      "index": 168,
+      "name": "Produkt",
+      "category_raw": "Azure Network Function Manager",
+      "category": "Network",
+      "url": "https://azure.microsoft.com/de-de/products/azure-network-function-manager/",
+      "description": ""
+    },
+    {
+      "index": 169,
+      "name": "Produkt",
+      "category_raw": "Azure Virtual Network Manager",
+      "category": "Network",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-network-manager",
+      "description": ""
+    },
+    {
+      "index": 170,
+      "name": "Produkt",
+      "category_raw": "Azure NAT Gateway",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-nat-gateway",
+      "description": ""
+    },
+    {
+      "index": 171,
+      "name": "Produkt",
+      "category_raw": "Azure Load Balancer",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/load-balancer/",
+      "description": ""
+    },
+    {
+      "index": 172,
+      "name": "Produkt",
+      "category_raw": "Azure Private Link",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/private-link/",
+      "description": ""
+    },
+    {
+      "index": 173,
+      "name": "Produkt",
+      "category_raw": "Azure Firewall Manager",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/firewall-manager/",
+      "description": ""
+    },
+    {
+      "index": 174,
+      "name": "Produkt",
+      "category_raw": "Azure Virtual Network",
+      "category": "Network",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-network/",
+      "description": ""
+    },
+    {
+      "index": 175,
+      "name": "Produkt",
+      "category_raw": "Azure Virtual WAN",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-wan/",
+      "description": ""
+    },
+    {
+      "index": 176,
+      "name": "Produkt",
+      "category_raw": "Azure VPN Gateway",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/vpn-gateway/",
+      "description": ""
+    },
+    {
+      "index": 177,
+      "name": "Produkt",
+      "category_raw": "Azure Cloud HSM",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/cloud-hsm",
+      "description": ""
+    },
+    {
+      "index": 178,
+      "name": "Produkt",
+      "category_raw": "Azure Key Vault",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/key-vault/",
+      "description": ""
+    },
+    {
+      "index": 179,
+      "name": "Produkt",
+      "category_raw": "Microsoft Azure Attestation",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/azure-attestation/",
+      "description": ""
+    },
+    {
+      "index": 180,
+      "name": "Produkt",
+      "category_raw": "Archivspeicher",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage",
+      "description": ""
+    },
+    {
+      "index": 181,
+      "name": "Produkt",
+      "category_raw": "Azure Managed Lustre",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/managed-lustre/",
+      "description": ""
+    },
+    {
+      "index": 182,
+      "name": "Produkt",
+      "category_raw": "Azure Files",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage/files/",
+      "description": ""
+    },
+    {
+      "index": 183,
+      "name": "Produkt",
+      "category_raw": "Azure Speichervorgänge",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage-actions",
+      "description": ""
+    },
+    {
+      "index": 184,
+      "name": "Produkt",
+      "category_raw": "Azure NetApp Files",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/netapp/",
+      "description": ""
+    },
+    {
+      "index": 185,
+      "name": "Produkt",
+      "category_raw": "Azure Blob Storage",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage/blobs/",
+      "description": ""
+    },
+    {
+      "index": 186,
+      "name": "Produkt",
+      "category_raw": "Azure Disk Storage",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage/disks/",
+      "description": ""
+    },
+    {
+      "index": 187,
+      "name": "Produkt",
+      "category_raw": "Azure Elastic SAN",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage/elastic-san/",
+      "description": ""
+    },
+    {
+      "index": 188,
+      "name": "Produkt",
+      "category_raw": "Queue Storage",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage/queues/",
+      "description": ""
+    },
+    {
+      "index": 189,
+      "name": "Produkt",
+      "category_raw": "Storage-Explorer",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage/storage-explorer/",
+      "description": ""
+    },
+    {
+      "index": 190,
+      "name": "Produkt",
+      "category_raw": "Azure Storage Discovery",
+      "category": "Storage",
+      "url": "https://azure.microsoft.com/de-de/products/storage-discovery",
+      "description": ""
+    },
+    {
+      "index": 191,
+      "name": "Produkt",
+      "category_raw": "Azure Lab Services",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/lab-services/",
+      "description": ""
+    },
+    {
+      "index": 192,
+      "name": "Produkt",
+      "category_raw": "Azure SignalR Service",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/signalr-service/",
+      "description": ""
+    },
+    {
+      "index": 193,
+      "name": "Produkt",
+      "category_raw": "Azure Fluid Relay",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/fluid-relay/",
+      "description": ""
+    },
+    {
+      "index": 194,
+      "name": "Produkte",
+      "category_raw": "Unkategorisiert",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/",
+      "description": ""
+    },
+    {
+      "index": 195,
+      "name": "SQL Server auf Azure Virtual Machines",
+      "category_raw": "SQL Server auf Azure Virtual Machines",
+      "category": "Compute",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/sql-server/",
+      "description": ""
+    },
+    {
+      "index": 196,
+      "name": "Virtuelle Linux-Computer in Azure",
+      "category_raw": "Virtuelle Linux-Computer",
+      "category": "Compute",
+      "url": "https://azure.microsoft.com/de-de/products/virtual-machines/linux/",
+      "description": ""
+    },
+    {
+      "index": 197,
+      "name": "Windows Server",
+      "category_raw": "Windows Server",
+      "category": "Unkategorisiert",
+      "url": "https://azure.microsoft.com/de-de/products/windows-server/",
+      "description": ""
+    }
+  ]
+}

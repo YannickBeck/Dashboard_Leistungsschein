@@ -1,0 +1,21 @@
+{
+  "id": "security-baseline",
+  "name": "Security Baseline",
+  "description": "Vorselektion fuer Security-, Identity- und Governance-Schwerpunkte.",
+  "module_ids": [
+    "LS-1001",
+    "LS-1009",
+    "LS-1011",
+    "LS-1012",
+    "LS-1017",
+    "LS-1018",
+    "LS-1019",
+    "LS-1020",
+    "LS-1021",
+    "LS-1022"
+  ],
+  "defaults": {
+    "offerVariant": "Security Baseline",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

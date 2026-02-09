@@ -1,0 +1,45 @@
+{
+  "id": "onprem_siem_to_sentinel_standard",
+  "category": "onprem-migrationen",
+  "title": "SIEM -> Microsoft Sentinel (Standard)",
+  "name": "SIEM -> Microsoft Sentinel (Standard)",
+  "description": "Assessment + Data Connector Setup + Detection + SOC-Enablement fuer Sentinel.",
+  "defaultSelected": [
+    "LS-OPM-SENTINEL-SENTINEL-ASSESSMENT-001",
+    "LS-OPM-SENTINEL-SENTINEL-ASSESSMENT-002",
+    "LS-OPM-SENTINEL-SENTINEL-ASSESSMENT-003",
+    "LS-OPM-SENTINEL-SENTINEL-BUILD-001",
+    "LS-OPM-SENTINEL-SENTINEL-BUILD-002",
+    "LS-OPM-SENTINEL-SENTINEL-BUILD-003",
+    "LS-OPM-SENTINEL-SENTINEL-CHANGE-001",
+    "LS-OPM-SENTINEL-SENTINEL-CHANGE-002",
+    "LS-OPM-SENTINEL-SENTINEL-CHANGE-003",
+    "LS-OPM-SENTINEL-SENTINEL-CUTOVER-001",
+    "LS-OPM-SENTINEL-SENTINEL-CUTOVER-002",
+    "LS-OPM-SENTINEL-SENTINEL-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-SENTINEL-SENTINEL-ASSESSMENT-001",
+    "LS-OPM-SENTINEL-SENTINEL-ASSESSMENT-002",
+    "LS-OPM-SENTINEL-SENTINEL-ASSESSMENT-003",
+    "LS-OPM-SENTINEL-SENTINEL-BUILD-001",
+    "LS-OPM-SENTINEL-SENTINEL-BUILD-002",
+    "LS-OPM-SENTINEL-SENTINEL-BUILD-003",
+    "LS-OPM-SENTINEL-SENTINEL-CHANGE-001",
+    "LS-OPM-SENTINEL-SENTINEL-CHANGE-002",
+    "LS-OPM-SENTINEL-SENTINEL-CHANGE-003",
+    "LS-OPM-SENTINEL-SENTINEL-CUTOVER-001",
+    "LS-OPM-SENTINEL-SENTINEL-CUTOVER-002",
+    "LS-OPM-SENTINEL-SENTINEL-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "Sentinel",
+    "SIEM"
+  ],
+  "defaults": {
+    "offerVariant": "SIEM -> Microsoft Sentinel (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

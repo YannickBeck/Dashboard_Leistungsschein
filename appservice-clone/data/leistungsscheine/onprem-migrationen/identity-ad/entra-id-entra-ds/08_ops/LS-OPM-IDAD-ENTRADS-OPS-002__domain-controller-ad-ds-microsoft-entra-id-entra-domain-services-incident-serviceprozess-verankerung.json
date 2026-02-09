@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.1.0",
+  "id": "LS-OPM-IDAD-ENTRADS-OPS-002",
+  "title": "Domain Controller (AD DS) -> Microsoft Entra ID + Entra Domain Services: Incident-/Serviceprozess-Verankerung",
+  "domain": "onprem-migrationen",
+  "theme": "onprem-identity-ad-entra-id-entra-ds",
+  "summary": "Ops - Incident-/Serviceprozess-Verankerung fuer die Migration von Domain Controller (AD DS) nach Microsoft Entra ID + Entra Domain Services als separat beauftragbarer Teilleistungsumfang.",
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "identity-ad",
+    "entra-id-entra-ds",
+    "OPS",
+    "Microsoft Entra ID + Entra Domain Services"
+  ],
+  "source": {
+    "type": "generated",
+    "origin": "onprem-migration-library",
+    "url": ""
+  },
+  "estimate": {
+    "unit": "PT",
+    "min": 1,
+    "likely": 4,
+    "max": 5
+  },
+  "delivery_model": "managed_service_only",
+  "intro": "Der Leistungsschein adressiert den Baustein \"Incident-/Serviceprozess-Verankerung\" in der Phase Ops fuer die Migration von Domain Controller (AD DS) nach Microsoft Entra ID + Entra Domain Services. Ziel ist ein klar abgrenzbares Ergebnis mit nachvollziehbarer Dokumentation, das separat beauftragt und abgenommen werden kann. Der Scope umfasst nur die in diesem Baustein beschriebenen Aktivitaeten inklusive Test- und Uebergabenachweisen.",
+  "services": [
+    "Input- und Scope-Klaerung fuer Incident-/Serviceprozess-Verankerung mit fachlichen und technischen Ansprechpartnern.",
+    "Analyse der aktuellen Domain Controller (AD DS)-Auspraegung inklusive Abhaengigkeiten zum Ziel Microsoft Entra ID + Entra Domain Services.",
+    "Erstellung der konkreten Arbeitsschritte inkl. Reihenfolge, Zeitfenster und Verantwortlichkeiten.",
+    "Durchfuehrung der technischen Aufgaben gemaess abgestimmtem Plan und dokumentierter Parameter.",
+    "Validierung ueber definierte Tests/Checks mit protokollierten Ergebnissen und Abweichungen.",
+    "Review, Ergebnisfreigabe und Uebergabe inkl. Restpunkte- und Risikoabstimmung."
+  ],
+  "deliverables": [
+    "Ops-Arbeitsprotokoll fuer Incident-/Serviceprozess-Verankerung.",
+    "Entscheidungslog inkl. Parameter- und Konfigurationsliste.",
+    "Test- und Evidenzprotokoll mit Status je Pruefpunkt.",
+    "Abnahmeprotokoll inkl. offener Punkte und Verantwortlichkeiten.",
+    "Backout-/Stabilisierungscheckliste (sofern fuer Phase relevant)."
+  ],
+  "assumptions": [
+    "Kundenseitig sind technische und fachliche Ansprechpartner waehrend der Ausfuehrung verfuegbar.",
+    "Alle benoetigten Zugriffe, Berechtigungen und Freigaben liegen vor Beginn des Bausteins vor.",
+    "Wartungs-, Test- und Cutover-Fenster werden rechtzeitig freigegeben.",
+    "Abhaengige Drittteams liefern erforderliche Inputs innerhalb der vereinbarten Fristen."
+  ],
+  "constraints": [
+    "Aenderungen ausserhalb des definierten Scopes werden nicht implizit umgesetzt.",
+    "Abhaengigkeiten zu Fremdprodukten/Providern koennen Zeitplaene beeinflussen.",
+    "Unvorhergesehene Ist-Abweichungen koennen zusaetzliche Analyse oder Re-Planung erfordern."
+  ],
+  "out_of_scope": [
+    "Dauerhafte Betriebsverantwortung ohne separaten Ops-/Managed-Service-Baustein.",
+    "Implementierung nicht benannter Zusatzprodukte oder paralleler Plattformwechsel.",
+    "Umfangreiche Reorganisation angrenzender Architekturdomainen ausserhalb dieses Outcomes."
+  ],
+  "acceptance": [
+    "Alle im Baustein definierten Deliverables wurden vollstaendig uebergeben und versioniert.",
+    "Mindestens drei abgestimmte Pruef-/Testkriterien wurden erfolgreich durchgefuehrt und dokumentiert.",
+    "Offene Punkte, Restrisiken und erforderliche Folgeaktionen wurden schriftlich abgestimmt."
+  ],
+  "scope": {
+    "description": "Umsetzung des bestellbaren Outcomes \"Incident-/Serviceprozess-Verankerung\" in Phase Ops fuer Domain Controller (AD DS) nach Microsoft Entra ID + Entra Domain Services.",
+    "qty": {
+      "users": 250
+    },
+    "boundaries": [
+      "Scope ist auf die benannte Rolle/Zielplattform und den konkreten Outcome begrenzt.",
+      "Aenderungen am Gesamtprojekt-Scope werden separat bewertet und freigegeben.",
+      "Cross-Workload-Abhaengigkeiten werden nur koordiniert, nicht automatisch umgesetzt."
+    ]
+  },
+  "effort_drivers": [
+    "Anzahl Benutzer/Gruppen",
+    "Trust-/Forest-Komplexitaet",
+    "Legacy-Auth-Abhaengigkeiten",
+    "Rollen-/Rechtebereinigung"
+  ],
+  "risks": [
+    "Unvollstaendige Bestandsdaten oder nicht dokumentierte Altlasten fuehren zu Zusatzaufwand.",
+    "Freigabe- oder Zugriffsblocker verzögern technische Arbeitspakete.",
+    "Scope-Aenderungen waehrend der Umsetzung erhoehen Aufwand und Abstimmungsbedarf."
+  ],
+  "mitigations": [
+    "Readiness-Check fuer Zugriffe/Freigaben vor Start des Bausteins.",
+    "Regelmaessige Review- und Entscheidungsrunden mit transparentem Status.",
+    "Dokumentiertes Change-Control mit Re-Estimate bei Scope-Aenderungen."
+  ],
+  "customer_responsibilities": [
+    "Bereitstellung zustaendiger Ansprechpartner und Entscheidungswege.",
+    "Termingerechte Freigabe von Wartungsfenstern, Zugraengen und Testgruppen.",
+    "Review/Abnahme der gelieferten Ergebnisse innerhalb vereinbarter Fristen."
+  ],
+  "provider_responsibilities": [
+    "Planung und technische Umsetzung gemaess abgestimmtem Scope.",
+    "Nachvollziehbare Dokumentation von Entscheidungen, Risiken und Ergebnissen.",
+    "Fruehzeitige Eskalation bei Blockern sowie strukturierte Uebergabe."
+  ],
+  "raci": {
+    "customer": [
+      "Accountable fuer fachliche Priorisierung und Freigaben.",
+      "Consulted bei Betriebs-, Prozess- und Compliance-Entscheidungen."
+    ],
+    "provider": [
+      "Responsible fuer technische Planung, Ausfuehrung und Nachweisfuehrung.",
+      "Consulted fuer Best Practices, Risikosteuerung und Optimierungsoptionen."
+    ]
+  },
+  "change_control": "Scope-Aenderungen werden ueber ein formales Change-Request-Verfahren aufgenommen, bewertet (Aufwand/Termin/Risiko) und erst nach Freigabe umgesetzt.",
+  "notes": "On-Prem Migrationsbibliothek: identity-ad/entra-id-entra-ds/08_ops.",
+  "dependencies": {
+    "requires": [
+      "LS-OPM-IDAD-ENTRADS-HANDOVER-001",
+      "LS-OPM-IDAD-ENTRADS-OPS-001"
+    ],
+    "excludes": []
+  },
+  "mehrwert": [
+    "Der Baustein \"Domain Controller (AD DS) -> Microsoft Entra ID + Entra Domain Services: Incident-/Serviceprozess-Verankerung\" schafft ein klar abnehmbares Zwischenergebnis und macht Aufwand, Verantwortlichkeiten und Folgeentscheidungen transparent.",
+    "Identitaets- und Zugriffssteuerung wird konsistent ueber Rollen, Gruppen und technische Zielsysteme umgesetzt, statt als Einzelfallpflege betrieben.",
+    "Gegenueber lokalen Sonderrechten und uneinheitlichen Berechtigungsmodellen verbessert sich Nachvollziehbarkeit fuer Betrieb, Revision und Fachbereiche.",
+    "Das reduziert insbesondere das Risiko \"Unvollstaendige Bestandsdaten oder nicht dokumentierte Altlasten fuehren zu Zusatzaufwand\" und stabilisiert den Projektverlauf.",
+    "Klare Verantwortlichkeiten und dokumentierte Zugriffspfade beschleunigen Onboarding, Changes und Audit-Anfragen.",
+    "Klare Betriebs- und Eskalationsprozesse senken die Zeit bis zur wirksamen Gegenmassnahme bei Stoerungen."
+  ]
+}

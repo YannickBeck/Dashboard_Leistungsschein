@@ -1,0 +1,38 @@
+{
+  "name": "leistungsschein-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard und Backend zur Angebotsgenerierung aus Leistungsbausteinen",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node scripts/smokeCheck.js && node scripts/generateCheck.js",
+    "smoke": "node scripts/smokeCheck.js",
+    "validate:ls": "node scripts/validateLeistungsscheine.js",
+    "upgrade:ls": "node scripts/upgradeLeistungsscheineSchema.js",
+    "enrich:ls": "node scripts/enrichLeistungsscheine.js",
+    "check:generate": "node scripts/generateCheck.js",
+    "check:ui": "node scripts/uiModalCheck.js",
+    "check:preset": "node scripts/presetIntegrationCheck.js",
+    "seed:ls": "node scripts/generateSeedLeistungsscheine.js",
+    "index:azure": "node scripts/indexAzureProducts.js",
+    "score:azure": "node scripts/selectRelevantAzureProducts.js",
+    "generate:ls": "node scripts/generateLeistungsscheineFromAzureIndex.js",
+    "generate:onprem-presets": "node scripts/generateOnPremPresets.js",
+    "generate:onprem-ls": "node scripts/generateOnPremLeistungsscheine.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20 <=24"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "docx": "^9.5.1",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "jsdom": "^28.0.0",
+    "jszip": "^3.10.1"
+  }
+}

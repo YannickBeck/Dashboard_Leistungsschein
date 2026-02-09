@@ -1,0 +1,44 @@
+{
+  "id": "onprem_rds_to_avd_standard",
+  "category": "onprem-migrationen",
+  "title": "RDS / Terminalserver -> AVD (Standard)",
+  "name": "RDS / Terminalserver -> AVD (Standard)",
+  "description": "Assessment + Design + Build + Pilot + Cutover fuer Azure Virtual Desktop.",
+  "defaultSelected": [
+    "LS-OPM-AVD-AVD-ASSESSMENT-001",
+    "LS-OPM-AVD-AVD-ASSESSMENT-002",
+    "LS-OPM-AVD-AVD-ASSESSMENT-003",
+    "LS-OPM-AVD-AVD-BUILD-001",
+    "LS-OPM-AVD-AVD-BUILD-002",
+    "LS-OPM-AVD-AVD-BUILD-003",
+    "LS-OPM-AVD-AVD-CHANGE-001",
+    "LS-OPM-AVD-AVD-CHANGE-002",
+    "LS-OPM-AVD-AVD-CHANGE-003",
+    "LS-OPM-AVD-AVD-CUTOVER-001",
+    "LS-OPM-AVD-AVD-CUTOVER-002",
+    "LS-OPM-AVD-AVD-CUTOVER-003"
+  ],
+  "module_ids": [
+    "LS-OPM-AVD-AVD-ASSESSMENT-001",
+    "LS-OPM-AVD-AVD-ASSESSMENT-002",
+    "LS-OPM-AVD-AVD-ASSESSMENT-003",
+    "LS-OPM-AVD-AVD-BUILD-001",
+    "LS-OPM-AVD-AVD-BUILD-002",
+    "LS-OPM-AVD-AVD-BUILD-003",
+    "LS-OPM-AVD-AVD-CHANGE-001",
+    "LS-OPM-AVD-AVD-CHANGE-002",
+    "LS-OPM-AVD-AVD-CHANGE-003",
+    "LS-OPM-AVD-AVD-CUTOVER-001",
+    "LS-OPM-AVD-AVD-CUTOVER-002",
+    "LS-OPM-AVD-AVD-CUTOVER-003"
+  ],
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "AVD"
+  ],
+  "defaults": {
+    "offerVariant": "RDS / Terminalserver -> AVD (Standard)",
+    "deliveryModel": "T&M / Aufwandsschaetzung"
+  }
+}

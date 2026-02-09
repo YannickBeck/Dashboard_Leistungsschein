@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.1.0",
+  "id": "LS-OPM-MONITOR-AZMON-OPTIMIZATION-002",
+  "title": "Monitoring Plattform -> Azure Monitor / Log Analytics: Performance-Tuning und Kapazitaet",
+  "domain": "onprem-migrationen",
+  "theme": "onprem-monitor-azure-monitor-log-analytics",
+  "summary": "Optimization - Performance-Tuning und Kapazitaet fuer die Migration von Monitoring Plattform nach Azure Monitor / Log Analytics als separat beauftragbarer Teilleistungsumfang.",
+  "tags": [
+    "On-Prem",
+    "Migration",
+    "monitor",
+    "azure-monitor-log-analytics",
+    "OPTIMIZATION",
+    "Azure Monitor / Log Analytics"
+  ],
+  "source": {
+    "type": "generated",
+    "origin": "onprem-migration-library",
+    "url": ""
+  },
+  "estimate": {
+    "unit": "PT",
+    "min": 1,
+    "likely": 4,
+    "max": 4
+  },
+  "delivery_model": "managed_service_only",
+  "intro": "Der Leistungsschein adressiert den Baustein \"Performance-Tuning und Kapazitaet\" in der Phase Optimization fuer die Migration von Monitoring Plattform nach Azure Monitor / Log Analytics. Ziel ist ein klar abgrenzbares Ergebnis mit nachvollziehbarer Dokumentation, das separat beauftragt und abgenommen werden kann. Der Scope umfasst nur die in diesem Baustein beschriebenen Aktivitaeten inklusive Test- und Uebergabenachweisen.",
+  "services": [
+    "Input- und Scope-Klaerung fuer Performance-Tuning und Kapazitaet mit fachlichen und technischen Ansprechpartnern.",
+    "Analyse der aktuellen Monitoring Plattform-Auspraegung inklusive Abhaengigkeiten zum Ziel Azure Monitor / Log Analytics.",
+    "Erstellung der konkreten Arbeitsschritte inkl. Reihenfolge, Zeitfenster und Verantwortlichkeiten.",
+    "Durchfuehrung der technischen Aufgaben gemaess abgestimmtem Plan und dokumentierter Parameter.",
+    "Validierung ueber definierte Tests/Checks mit protokollierten Ergebnissen und Abweichungen.",
+    "Review, Ergebnisfreigabe und Uebergabe inkl. Restpunkte- und Risikoabstimmung."
+  ],
+  "deliverables": [
+    "Optimization-Arbeitsprotokoll fuer Performance-Tuning und Kapazitaet.",
+    "Entscheidungslog inkl. Parameter- und Konfigurationsliste.",
+    "Test- und Evidenzprotokoll mit Status je Pruefpunkt.",
+    "Abnahmeprotokoll inkl. offener Punkte und Verantwortlichkeiten.",
+    "Backout-/Stabilisierungscheckliste (sofern fuer Phase relevant)."
+  ],
+  "assumptions": [
+    "Kundenseitig sind technische und fachliche Ansprechpartner waehrend der Ausfuehrung verfuegbar.",
+    "Alle benoetigten Zugriffe, Berechtigungen und Freigaben liegen vor Beginn des Bausteins vor.",
+    "Wartungs-, Test- und Cutover-Fenster werden rechtzeitig freigegeben.",
+    "Abhaengige Drittteams liefern erforderliche Inputs innerhalb der vereinbarten Fristen."
+  ],
+  "constraints": [
+    "Aenderungen ausserhalb des definierten Scopes werden nicht implizit umgesetzt.",
+    "Abhaengigkeiten zu Fremdprodukten/Providern koennen Zeitplaene beeinflussen.",
+    "Unvorhergesehene Ist-Abweichungen koennen zusaetzliche Analyse oder Re-Planung erfordern."
+  ],
+  "out_of_scope": [
+    "Dauerhafte Betriebsverantwortung ohne separaten Ops-/Managed-Service-Baustein.",
+    "Implementierung nicht benannter Zusatzprodukte oder paralleler Plattformwechsel.",
+    "Umfangreiche Reorganisation angrenzender Architekturdomainen ausserhalb dieses Outcomes."
+  ],
+  "acceptance": [
+    "Alle im Baustein definierten Deliverables wurden vollstaendig uebergeben und versioniert.",
+    "Mindestens drei abgestimmte Pruef-/Testkriterien wurden erfolgreich durchgefuehrt und dokumentiert.",
+    "Offene Punkte, Restrisiken und erforderliche Folgeaktionen wurden schriftlich abgestimmt."
+  ],
+  "scope": {
+    "description": "Umsetzung des bestellbaren Outcomes \"Performance-Tuning und Kapazitaet\" in Phase Optimization fuer Monitoring Plattform nach Azure Monitor / Log Analytics.",
+    "qty": {
+      "users": 40
+    },
+    "boundaries": [
+      "Scope ist auf die benannte Rolle/Zielplattform und den konkreten Outcome begrenzt.",
+      "Aenderungen am Gesamtprojekt-Scope werden separat bewertet und freigegeben.",
+      "Cross-Workload-Abhaengigkeiten werden nur koordiniert, nicht automatisch umgesetzt."
+    ]
+  },
+  "effort_drivers": [
+    "Signalquellen",
+    "Alert-Volumen",
+    "Runbook-Reifegrad",
+    "SOC-/Ops-Integrationen"
+  ],
+  "risks": [
+    "Unvollstaendige Bestandsdaten oder nicht dokumentierte Altlasten fuehren zu Zusatzaufwand.",
+    "Freigabe- oder Zugriffsblocker verzögern technische Arbeitspakete.",
+    "Scope-Aenderungen waehrend der Umsetzung erhoehen Aufwand und Abstimmungsbedarf."
+  ],
+  "mitigations": [
+    "Readiness-Check fuer Zugriffe/Freigaben vor Start des Bausteins.",
+    "Regelmaessige Review- und Entscheidungsrunden mit transparentem Status.",
+    "Dokumentiertes Change-Control mit Re-Estimate bei Scope-Aenderungen."
+  ],
+  "customer_responsibilities": [
+    "Bereitstellung zustaendiger Ansprechpartner und Entscheidungswege.",
+    "Termingerechte Freigabe von Wartungsfenstern, Zugraengen und Testgruppen.",
+    "Review/Abnahme der gelieferten Ergebnisse innerhalb vereinbarter Fristen."
+  ],
+  "provider_responsibilities": [
+    "Planung und technische Umsetzung gemaess abgestimmtem Scope.",
+    "Nachvollziehbare Dokumentation von Entscheidungen, Risiken und Ergebnissen.",
+    "Fruehzeitige Eskalation bei Blockern sowie strukturierte Uebergabe."
+  ],
+  "raci": {
+    "customer": [
+      "Accountable fuer fachliche Priorisierung und Freigaben.",
+      "Consulted bei Betriebs-, Prozess- und Compliance-Entscheidungen."
+    ],
+    "provider": [
+      "Responsible fuer technische Planung, Ausfuehrung und Nachweisfuehrung.",
+      "Consulted fuer Best Practices, Risikosteuerung und Optimierungsoptionen."
+    ]
+  },
+  "change_control": "Scope-Aenderungen werden ueber ein formales Change-Request-Verfahren aufgenommen, bewertet (Aufwand/Termin/Risiko) und erst nach Freigabe umgesetzt.",
+  "notes": "On-Prem Migrationsbibliothek: monitor/azure-monitor-log-analytics/09_optimization.",
+  "dependencies": {
+    "requires": [
+      "LS-OPM-MONITOR-AZMON-OPS-001",
+      "LS-OPM-MONITOR-AZMON-OPTIMIZATION-001"
+    ],
+    "excludes": []
+  },
+  "mehrwert": [
+    "Der Baustein \"Monitoring Plattform -> Azure Monitor / Log Analytics: Performance-Tuning und Kapazitaet\" schafft ein klar abnehmbares Zwischenergebnis und macht Aufwand, Verantwortlichkeiten und Folgeentscheidungen transparent.",
+    "Monitoring und Alerting werden als steuerbarer Betriebsprozess aufgesetzt, sodass Stoerungen frueh sichtbar und priorisiert bearbeitbar sind.",
+    "Gegenueber reaktiver Fehlersuche ohne einheitliche Signale sinken Suchzeiten und Medienbrueche zwischen Fachbereich, Betrieb und Support.",
+    "Das reduziert insbesondere das Risiko \"Unvollstaendige Bestandsdaten oder nicht dokumentierte Altlasten fuehren zu Zusatzaufwand\" und stabilisiert den Projektverlauf.",
+    "Eindeutige Alarmwege, Schwellenwerte und Runbooks machen Incident-Bearbeitung messbar und wiederholbar.",
+    "Messbasierte Optimierung verbindet Kosten, Performance und Stabilitaet und verhindert isolierte Einzelmassnahmen ohne Gesamtwirkung."
+  ]
+}
